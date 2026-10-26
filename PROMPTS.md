@@ -2,7 +2,7 @@
 
 Kopiere den Prompt, ersetze die Teile in `[eckigen Klammern]` und schick ihn ab. Wenn dir die Antwort nicht gefällt, schreib einfach hinterher: **„kürzer“**, **„lockerer“**, **„noch eine Variante“** oder **„ohne Emojis“**.
 
-> ⚠️ Nie echte Namen, Telefonnummern oder Chatverläufe von Interessenten einfügen.
+> **Wichtig:** Nie echte Namen, Telefonnummern oder Chatverläufe von Interessenten einfügen.
 
 ---
 
