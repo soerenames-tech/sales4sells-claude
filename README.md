@@ -8,7 +8,7 @@ Mit diesem Skill kennt [Claude](https://claude.ai) das Angebot von Sales4Sells (
 
 ## 1. Herunterladen
 
-**[sales4sells-content.zip herunterladen](../../releases/latest/download/sales4sells-content.zip)**
+**[sales4sells-content.zip herunterladen](https://github.com/soerenames-tech/sales4sells-claude/releases/latest/download/sales4sells-content.zip)**
 (oder rechts unter „Releases“ → neueste Version → `sales4sells-content.zip`)
 
 Die Datei **nicht entpacken**.
