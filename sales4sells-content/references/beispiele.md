@@ -43,16 +43,16 @@
 > Schön, dass du dabei bist! Ich hab dir eine Nachricht geschickt 🙂
 
 **Erste Nachricht (DM):**
-> Hey 👋 danke für deinen Kommentar! Kurz zum Umstieg-Modell: Du lernst neben deinem Job Telefonvertrieb – zum Start reicht eine Stunde am Tag. Ab Tag 7 telefonierst du für eine unserer Partnerfirmen, und im Job reduzierst du erst, wenn das Neue trägt. Alle Infos und die Bewerbung (2 Min.) findest du hier: [Link]. Was machst du aktuell beruflich?
+> Hey 👋 danke für deinen Kommentar! Kurz zum Umstieg-Modell: Du lernst neben deinem Job Telefonvertrieb – zum Start reicht eine Stunde am Tag. Ab Tag 7 telefonierst du für eine unserer Partnerfirmen, und im Job reduzierst du erst, wenn das Neue trägt. Darf ich fragen, was du aktuell beruflich machst?
 
 **Frage „Was verdient man da?“ – öffentlich:**
 > Gute Frage! Eine feste Zahl kann dir seriös niemand versprechen – im Vertrieb läuft viel über Provision. Ich schreib dir kurz privat 🙂
 
 **… und per DM:**
-> Das hängt stark von dir ab – im Vertrieb wird meist über Provision bezahlt. Genau das schauen wir uns im kostenlosen Erstgespräch für deine Situation an. Magst du dich kurz bewerben? Dauert 2 Minuten: [Link]
+> Das hängt stark von dir ab – im Vertrieb wird meist über Provision bezahlt. Genau das schauen wir uns im kostenlosen Erstgespräch für deine Situation an. Was machst du denn aktuell beruflich?
 
 **Frage „Was kostet das?“:**
-> Das besprechen wir im kostenlosen Erstgespräch – vorher schauen wir, ob es überhaupt zu dir passt. Hier kannst du dich in 2 Minuten bewerben: [Link]
+> Das besprechen wir im kostenlosen Erstgespräch – vorher schauen wir, ob es überhaupt zu dir passt. Darf ich fragen, was du gerade beruflich machst?
 
 **Skeptischer Kommentar „Klingt nach Abzocke“:**
 > Verstehe ich – in dem Bereich gibt es viel Hype. Deshalb versprechen wir kein schnelles Geld: Du lernst neben dem Job und reduzierst erst, wenn es trägt. Schau's dir in Ruhe an, das Erstgespräch ist kostenlos.

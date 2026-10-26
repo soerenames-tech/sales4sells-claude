@@ -32,4 +32,4 @@ Videokurs, 2 Live-Calls pro Woche (abends), WhatsApp-Support, 1:1 mit Ansprechpa
 - Ein Anfänger schafft rund 30 Anwahlen pro Stunde.
 
 ## Der Weg eines Interessenten
-Kommentar „UMSTIEG“ oder Nachricht → kurze Antwort mit Infos → Bewerbung auf sales4sells.com (2 Minuten) → kostenloses Erstgespräch (ca. 30 Min., Video-Call oder Telefon). Im Chat qualifiziert der Poster kurz: über 18, hat einen Job/Einkommen, echtes Interesse.
+Kommentar „UMSTIEG“, Like, Follow oder Nachricht → persönliche Nachricht mit einer Frage → im Chat kurz qualifizieren (über 18, hat einen Job/Einkommen, Ziel und ca. 1 Stunde am Tag) → der Poster schlägt zwei Termine vor, bucht das kostenlose Erstgespräch (ca. 30 Min., Video-Call oder Telefon) in Cedrics Calendly und trägt Termin und Lead im Dashboard unter „Termin buchen“ ein. Kein Bewerbungslink – sonst ist der Termin keinem Poster zugeordnet. (Die Bewerbung auf sales4sells.com ist für Leute, die direkt über die Website kommen.)
