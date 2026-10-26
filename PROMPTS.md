@@ -107,6 +107,11 @@ Formuliere mir eine Beschreibung (mind. 100 Zeichen) für einen Lead: [Alter], [
 
 ## E. Fortgeschritten
 
+### E0 · Welche Skill-Version habe ich?
+```
+Welche Version hat dein Sales4Sells-Skill?
+```
+
 ### E1 · Was lief gut? (Wochenrückblick)
 ```
 Diese Woche hatten meine Slideshows folgende Zahlen: [Format/Thema – Aufrufe – Kommentare – UMSTIEG]. Was fällt dir auf und was sollte ich nächste Woche testen?

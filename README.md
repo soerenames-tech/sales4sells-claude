@@ -60,7 +60,13 @@ Die wichtigsten auf einen Blick:
 
 ## Updates
 
-Wenn es eine neue Version gibt, sagen wir im Team Bescheid. Dann: neue ZIP herunterladen → in Claude unter **Skills** die alte Version entfernen → neue hochladen.
+Der Skill wird laufend verbessert. **Er aktualisiert sich nicht von selbst** – jeder hat seine eigene Kopie in Claude.
+Wenn es eine neue Version gibt, sagt Sören Bescheid. Dann:
+1. In Claude unter **Skills** die alte Version von **sales4sells-content** entfernen
+2. Die neue ZIP oben unter „Herunterladen“ laden und hochladen
+3. Test: „Welche Version hat dein Sales4Sells-Skill?“ – Claude nennt die Versionsnummer
+
+Aktuelle Version: **1.3** (26.10.2026)
 
 ---
 
