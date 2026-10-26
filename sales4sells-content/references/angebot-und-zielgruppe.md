@@ -16,6 +16,17 @@ Unternehmen anrufen, Interesse wecken, herausfinden, ob es passt, und einen Term
 ## Begleitung im Programm
 Videokurs, 2 Live-Calls pro Woche (abends), WhatsApp-Support, 1:1 mit Ansprechpartner. Das Programm ist kostenpflichtig; Details nur im kostenlosen Erstgespräch.
 
+## Die Accounts der Poster
+- Jeder Poster betreut einen TikTok- und einen Instagram-Account; **Cedric ist das Gesicht** (Fotos von Cedric). Später sind bis zu drei Accounts möglich.
+- Aufwand: ca. 30–60 Minuten pro Account und Tag, Uhrzeit frei.
+- **TikTok:** nach 2 Tagen Aufwärmen jeden Tag eine Slideshow (Formate: Cedrics Weg, POV, Vergleich, Alltag).
+- **Instagram:** zuerst 6–9 Beiträge (Zypern → Brasilien → Frankfurt), damit das Profil echt wirkt; danach Outreach.
+- Profilbild, Bio und Beschreibungen wählt bzw. schreibt jeder Poster selbst – damit nicht alle Accounts gleich aussehen.
+- Am Anfang: Wochen-Call (ca. 30 Min.) mit Sören; dort werden u. a. die Nachrichten gemeinsam ausgearbeitet.
+
+## Bilder-Ordner (Zeitabschnitte)
+Cedrics Fotos sind nach Zeitabschnitten sortiert – man sieht, wie er älter wird: **1 – Zypern** (am jüngsten) → **2 – Brasilien** → **3 – Frankfurt** (heute). Dateinamen: „Cedric – …“ oder „Stimmung – …“. Was Cedric an den Orten genau gemacht hat, ist nicht dokumentiert – nichts dazu erfinden.
+
 ## Die Zielperson
 - Angestellt, oft Vollzeit, solides Einkommen, aber „Das kann's nicht gewesen sein“.
 - Wünscht sich: mehr Zeit (Familie, Freizeit), weniger Pendeln, mehr Selbstbestimmung, ein zweites Standbein.

@@ -1,68 +1,73 @@
-# Outreach & Story-Slideshows
+# Outreach & TikTok-Slideshows
 
 ## Das Prinzip
-Posten ist zweitrangig – Gespräche zählen. Der Weg: **Story-Slideshow auf TikTok → jemand zeigt Interesse (Signal) → persönliche Nachricht → kurz qualifizieren → Erstgespräch buchen (Calendly) → im Dashboard eintragen.**
+Posten ist zweitrangig – Gespräche zählen. Der Weg: **Slideshow auf TikTok → jemand zeigt Interesse (Signal) → persönliche Nachricht → kurz qualifizieren → Erstgespräch buchen (Cedrics Calendly) → im Dashboard eintragen.**
 
 - **TikTok:** Nur Menschen anschreiben, die ein **Signal** gegeben haben: Kommentar, neuer Follower, Like, Profilaufruf. Niemals Fremde ohne Signal.
-- **Instagram:** Zusätzlich vorsichtiger Cold Outreach – nur Menschen, die sich **öffentlich zum Thema geäußert** haben (z. B. ein Kommentar unter einem Beitrag zu Nebenjob, Homeoffice, Job-Frust). Kurz, persönlich, mit Bezug auf ihren Kommentar – kein Werbetext.
+- **Instagram:** Erst wenn das Profil **6–9 Beiträge** hat. Dann zusätzlich vorsichtiger Cold Outreach – nur Menschen, die sich **öffentlich zum Thema geäußert** haben (z. B. ein Kommentar unter einem Beitrag zu Nebenjob, Homeoffice, Job-Frust).
+- **Wochen-Call:** Am Anfang telefoniert jeder Poster einmal pro Woche ca. 30 Minuten mit Sören. Dort werden die eigenen Nachrichten gemeinsam ausgearbeitet. Es gibt bewusst **keine festen Vorlagen** – wenn alle dieselbe Nachricht schicken, merkt man das sofort.
 
-## Story-Slideshows (TikTok)
-Story-Slideshows erzählen eine Entwicklung in 5–7 Bildern. Bilder dürfen frei kombiniert werden (Fotos von Cedric, eigene Fotos, lizenzfreie Stimmungsbilder z. B. von Pexels/Unsplash) – aber **keine Bilder aus Google/Pinterest** (Urheberrecht).
+## TikTok-Slideshows
 
-**Wichtig – POV statt erfundenes Ich:** Eine Ich-Geschichte („Ich war im Job gefangen … heute bin ich frei“) darf nur posten, wer sie **wirklich erlebt** hat. Sonst ist es eine erfundene Erfahrung (verboten, abmahnfähig). Stattdessen das **POV-Format** („POV: Du bist 31, Vollzeit …“) oder die **Du-Perspektive** – das versteht jeder als Szenario.
+### Die vier Formate (auf einem Account mischen)
+1. **Cedrics Weg** – seine echte Geschichte, nur bestätigte Fakten: mit 18 im Vertrieb angefangen, noch während der Schule · über eine Marketing-Agentur zu einer Vertriebsagentur · heute Head of Sales · über 20 Leute eingearbeitet · telefoniert bis heute selbst. Stationen Zypern → Brasilien → Frankfurt nur als Orte zeigen; was er dort genau gemacht hat, nicht erfinden.
+2. **POV** – die Situation der Zielgruppe: „POV: Du bist 31, Vollzeit …“. Szenario, keine erfundene Ich-Geschichte.
+3. **Vergleich** – zwei Wege gegenüberstellen: Nebenjob gegen Remote-Vertrieb, angestellt gegen selbstständig, „Kündigen“ gegen „Umsteigen“.
+4. **Alltag** – wie eine Stunde Telefonvertrieb wirklich aussieht (Laptop, Headset, ca. 30 Anwahlen pro Stunde am Anfang, viele Neins, ein paar Gespräche).
 
-**Aufbau (6 Bilder):**
-1. **Hook / POV** – die Situation, in der sich die Zielperson wiedererkennt
+### Aufbau (meist 6 Bilder)
+1. **Hook** – die Situation, in der sich die Zielperson wiedererkennt
 2. **Ausgangslage** – was nervt (konkret: Sonntagabend, Pendeln, Gehaltsdeckel)
-3. **Gescheiterter Versuch** – was man schon probiert hat (Nebenjob, Online-Kurs ohne Praxis, „einfach kündigen“-Tipps)
-4. **Die Entdeckung** – das Umstieg-Modell: Telefonvertrieb lernen, neben dem Job
+3. **Problem** – was nicht funktioniert hat (Nebenjob, Online-Kurs ohne Praxis, „einfach kündigen“-Tipps)
+4. **Die Wende** – das Umstieg-Modell: Telefonvertrieb lernen, neben dem Job
 5. **Der Weg** – 1 Stunde am Tag, ab Tag 7 bei einer echten Firma
-6. **Ausblick + CTA** – Stunden reduzieren, wenn es trägt · „Kommentier UMSTIEG“
+6. **Ausblick + Aufruf** – Stunden reduzieren, wenn es trägt · „Kommentier UMSTIEG“
 
-**Beispiel:**
-1. POV: Du bist 31, Vollzeit – und sonntags um sechs graut dir schon vor Montag.
-2. Guter Job. Okayes Gehalt. Aber 40 Stunden die Woche für die Ziele von jemand anderem.
-3. Nebenjob probiert? Pakete ausfahren am Samstag. Bringt Geld – aber kein Weiterkommen.
-4. Dann das Umstieg-Modell: Telefonvertrieb lernen. Neben dem Job.
-5. Eine Stunde am Tag zum Start. Ab Tag 7 telefonierst du für eine echte Firma.
-6. Und erst wenn es trägt, gehst du im Job runter. Kommentier UMSTIEG.
-Beschreibung: „Kein Sprung ins kalte Wasser. Wie schnell es geht, hängt von dir ab. Kommentier UMSTIEG für alle Infos.“
+Bei Vergleichen: Bild 1 stellt die Frage, dann abwechselnd die beiden Wege, letztes Bild der Aufruf.
+
+### Texte und Bilder
+- Pro Bild ein kurzer Satz, max. ~12 Wörter, weißer Texthintergrund, Gesicht frei lassen.
+- **Bilder mischen ist erlaubt:** Cedric aus allen Zeitabschnitten, Stimmungsbilder aus dem Ordner, eigene Fotos, lizenzfreie Bilder (Pexels, Unsplash). **Keine Bilder aus Google/Pinterest** (Urheberrecht).
+- Beschreibung: 1–2 Sätze + „Kommentier UMSTIEG“ + 3–5 Hashtags.
+- **Ich-Form nur mit echten Fakten.** Erfundene Erlebnisse („Ich war im Job gefangen … heute bin ich frei“) sind irreführende Werbung – abmahnfähig, Accounts werden gesperrt.
 
 ## Signale abarbeiten (TikTok)
-Reihenfolge nach Wärme: **1. Kommentare → 2. neue Follower → 3. Likes → 4. Profilaufrufe.**
-Profilaufrufe sieht man nur, wenn die Funktion in den TikTok-Einstellungen aktiviert ist (und beim anderen auch).
+Reihenfolge nach Wärme: **1. Kommentare → 2. neue Follower → 3. Likes → 4. Profilaufrufe.** Kommentare am besten innerhalb einer Stunde.
+Profilaufrufe sieht man nur, wenn die Funktion in den TikTok-Einstellungen aktiviert ist.
 
-## Erstnachrichten (je nach Signal)
-- **Kommentar:** „Hey [Vorname], danke für deinen Kommentar! Du hast geschrieben, [kurzer Bezug]. Darf ich fragen, was du gerade beruflich machst?“
-- **Neuer Follower:** „Hey [Vorname], danke fürs Folgen! Bist du selbst gerade auf der Suche nach etwas neben dem Job – oder eher aus Neugier hier?“
-- **Like:** „Hey [Vorname], hab gesehen, dass dir mein Beitrag über [Thema] gefallen hat. Kennst du die Situation selbst?“
-- **Profilaufruf:** „Hey [Vorname], hab gesehen, dass du auf meinem Profil warst. Hat dich ein bestimmter Beitrag angesprochen?“
-- **Instagram (Cold, nach öffentlichem Kommentar):** „Hey [Vorname], hab deinen Kommentar unter dem Beitrag von [Account] gesehen – ‚[kurzes Zitat]‘. Kenn ich gut. Arbeitest du gerade auch Vollzeit und überlegst, nebenbei was aufzubauen?“
+## Die erste Nachricht – Regeln statt Vorlage
+- **Bezug auf das Signal** (Kommentar, Follow, Like, Profilaufruf bzw. auf Instagram: der öffentliche Kommentar)
+- **2–3 Sätze**, locker, wie man einem Bekannten schreibt
+- **Endet mit einer Frage** (z. B. was die Person beruflich macht)
+- **Kein Link**, kein Werbetext, keine Copy-Paste-Nachricht an alle
 
-Regeln: kurz (2–3 Sätze), keine Links in der ersten Nachricht, mit einer Frage enden, kein Copy-Paste-Gefühl (Bezug auf die Person).
+Wenn ein Poster Hilfe will: 2 unterschiedliche Entwürfe anbieten, die zu seinem Ton passen, und daran erinnern, die eigene Version im Wochen-Call abzustimmen.
 
-## Qualifizieren (3 Dinge klären, locker im Gespräch)
-1. **Über 18?** („Darf ich fragen, wie alt du bist?“)
-2. **Job/Einkommen?** („Was machst du gerade beruflich?“)
-3. **Ziel & Zeit?** („Wäre dein Ziel eher nebenbei was aufbauen oder Stunden reduzieren? Hättest du ca. eine Stunde am Tag?“)
-Passt es → Termin vorschlagen. Passt es nicht → freundlich bleiben, nicht drängen.
-
-## Termin vorschlagen
-„Klingt, als könnte das gut passen. Lass uns kurz sprechen – das Erstgespräch ist kostenlos und dauert ca. 30 Minuten. Passt dir eher [Tag, Uhrzeit] oder [Tag, Uhrzeit]?“
-Danach: Termin in Cedrics Calendly buchen und im Dashboard unter „Termin buchen“ eintragen.
+## Qualifizieren (3 Dinge, locker im Gespräch)
+1. **Über 18?**
+2. **Job/Einkommen?**
+3. **Ziel & Zeit?** (nebenbei aufbauen oder Stunden reduzieren? ca. eine Stunde am Tag?)
+Passt es → Termin vorschlagen, immer mit **zwei konkreten Zeiten**. Das Erstgespräch ist kostenlos und dauert ca. 30 Minuten. Passt es nicht → freundlich bleiben, nicht drängen.
+Danach: Termin in Cedrics Calendly buchen (Link im Dashboard unter „Termin buchen“) und Termin + Lead im Dashboard eintragen.
 
 ## Follow-ups (max. 3)
-- **Tag 1:** „Hey, ist meine Nachricht untergegangen?“
-- **Tag 3:** „Kurz nachgehakt: Ist das Thema für dich gerade noch aktuell?“
-- **Tag 5:** „Letzte Nachricht von mir – wenn es gerade nicht passt, völlig okay. Falls doch, schreib mir einfach.“
-Danach nicht weiter schreiben.
+- **Tag 1:** kurz fragen, ob die Nachricht angekommen ist
+- **Tag 3:** nachhaken, ob das Thema noch aktuell ist
+- **Tag 5:** letzte Nachricht – wenn es gerade nicht passt, völlig okay; die Tür bleibt offen
+Danach nicht weiter schreiben. Formulierungen in eigenen Worten.
 
-## Häufige Einwände
-- **„Was kostet das?“** → „Das besprechen wir im kostenlosen Erstgespräch – vorher schauen wir, ob es überhaupt passt.“
-- **„Was verdient man?“** → keine Zahl: „Im Vertrieb läuft viel über Provision, das hängt von dir ab. Genau das schauen wir uns im Erstgespräch an.“
-- **„Keine Zeit“** → „Zum Start reicht eine Stunde am Tag. Im Gespräch schauen wir, ob das bei dir realistisch ist.“
-- **„Ist das seriös?“** → „Berechtigte Frage. Wir versprechen kein schnelles Geld – du lernst neben dem Job und reduzierst erst, wenn es trägt. Das Erstgespräch ist kostenlos und unverbindlich.“
-- **„Ich bin kein Verkäufertyp“** → „Müssen die wenigsten sein. Es geht um Fragen stellen und zuhören – das lernst du mit Leitfaden.“
+## Einwände – die Richtung
+- **„Was kostet das?“** → kein Preis im Chat, das klärt das kostenlose Erstgespräch
+- **„Was verdient man?“** → nie eine Zahl; im Vertrieb viel Provision, hängt von der Person ab
+- **„Keine Zeit“** → zum Start reicht eine Stunde am Tag; ob das passt, klärt das Gespräch
+- **„Ist das seriös?“** → ehrlich: kein schnelles Geld, erst lernen, dann reduzieren
+- **„Ich bin kein Verkäufertyp“** → müssen die wenigsten sein; es geht um Fragen stellen und zuhören
+
+## Instagram-Outreach
+- Erst wenn das Profil 6–9 Beiträge hat.
+- Leute finden: Hashtags wie #nebenjob, #homeoffice, #vertrieb, #jobfrust oder Accounts zu Karriere/Nebenjob → Beiträge mit vielen Kommentaren → Kommentare, die einen echten Schmerz zeigen („Jeden Tag 1,5 Std. pendeln“, „Such was nebenbei“). Emoji-Kommentare sind kein Signal.
+- Nachricht mit Bezug auf den Kommentar, Frage am Ende, kein Werbetext, kein Link.
+- **15–20 pro Tag zum Start**, langsam steigern, max. ca. 40. Wer nicht antwortet oder ablehnt, bekommt keine weiteren Nachrichten.
 
 ## Tagesziel (Richtwert)
-1 Story-Slideshow posten · **alle** neuen Signale des Tages anschreiben · fällige Follow-ups · auf Instagram 15–20 Cold-Nachrichten zum Start (langsam steigern, max. ca. 40) · alles im Tagesbericht unter „Outreach-Nachrichten“ zählen.
+1 Slideshow auf TikTok · **alle** neuen Signale anschreiben (Kommentare zuerst) · fällige Follow-ups · auf Instagram (sobald das Profil steht) 15–20 Nachrichten · abends alles im Tagesbericht unter „Outreach-Nachrichten“ zählen.

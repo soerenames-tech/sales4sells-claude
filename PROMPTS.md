@@ -1,80 +1,70 @@
 # Prompts zum Kopieren – Sales4Sells mit Claude
 
-Kopiere den Prompt, ersetze die Teile in `[eckigen Klammern]` und schick ihn ab. Wenn dir die Antwort nicht gefällt, schreib einfach hinterher: **„kürzer“**, **„lockerer“**, **„noch eine Variante“** oder **„ohne Emojis“**.
+Kopiere den Prompt, ersetze die Teile in `[eckigen Klammern]` und schick ihn ab. Wenn dir die Antwort nicht gefällt, schreib einfach hinterher: **„kürzer“**, **„lockerer“**, **„normaler, weniger Werbung“** oder **„noch eine Variante“**.
 
 > **Wichtig:** Nie echte Namen, Telefonnummern oder Chatverläufe von Interessenten einfügen.
 
 ---
 
-## A. Beiträge (Grundkurs)
+## A. TikTok-Slideshows
 
-### A1 · Varianten für einen vorgegebenen Beitrag
+### A1 · Slideshow in einem Format
 ```
-Gib mir 3 Varianten für Beitrag [1–9] mit Set [01–06]. Jeweils Text für Bild 1–3, Beschreibung und Hashtags.
-```
-*Wann:* Du willst nicht genau denselben Text posten wie andere Poster.
-
-### A2 · Nur einen neuen Hook
-```
-Schreib mir 5 Hooks für Bild 1 zu Beitrag [Nummer]. Max. 10 Wörter, jeder mit einem anderen Ansatz.
+Schreib mir eine TikTok-Slideshow (6 Bilder) im Format [Cedrics Weg / POV / Vergleich / Alltag] zum Thema [z. B. Pendeln / Sonntagabend / Nebenjob]. Pro Bild ein kurzer Satz + Bildidee, dazu Beschreibung und 3–5 Hashtags.
 ```
 
-### A3 · Text an mein Bild anpassen
+### A2 · Nur neue Hooks
 ```
-Ich nehme für Beitrag [Nummer] diese Bilder aus Set [Nummer]: [kurz beschreiben, z. B. „Cedric am Fenster, Meerblick, verschränkte Arme“]. Passt der Text dazu? Wenn nicht, schlag eine Variante vor.
-```
-
-### A4 · Text-Check vor dem Posten
-```
-Check mal meinen Text, bevor ich poste:
-Bild 1: [Text]
-Bild 2: [Text]
-Beschreibung: [Text]
-```
-*Wann:* Immer, wenn du etwas selbst geschrieben oder geändert hast.
-
----
-
-## B. Kommentare & Nachrichten (Grundkurs)
-
-### B1 · Antwort auf einen Kommentar
-```
-Jemand hat unter meinem Beitrag kommentiert: „[Kommentar]“. Was antworte ich öffentlich – und was schreibe ich per DM?
+Gib mir 5 Hooks für das erste Bild einer Slideshow zum Thema [Thema]. Max. 10 Wörter, jeder mit einem anderen Ansatz.
 ```
 
-### B2 · Schwierige Frage (Verdienst, Preis, „Ist das seriös?“)
+### A3 · Bilder für eine Slideshow auswählen
 ```
-Ein Interessent fragt per DM: „[Frage]“. Er ist [Alter], [Job, z. B. Vollzeit im Einzelhandel]. Wie antworte ich, ohne Versprechen zu machen?
-```
-
-### B3 · Follow-up, wenn jemand nicht mehr antwortet
-```
-Ein Interessent hat seit [1 / 2 / 3] Tagen nicht mehr geantwortet. Zuletzt ging es um [Thema]. Schreib mir eine kurze, lockere Follow-up-Nachricht.
+Ich habe diese Slideshow-Texte: [Bild 1: … / Bild 2: …]. Welche Bilder aus dem Ordner passen dazu? (Zypern, Brasilien, Frankfurt, Stimmungsbilder)
 ```
 
-### B4 · Kritischer oder negativer Kommentar
+### A4 · Ideen für die nächste Woche
 ```
-Unter meinem Beitrag steht: „[Kommentar]“. Soll ich antworten? Wenn ja, wie – ruhig und ohne Streit?
+Gib mir 7 Ideen für Slideshows, gemischt aus den Formaten Cedrics Weg, POV, Vergleich und Alltag. Je: Format, Thema, Hook für Bild 1.
 ```
 
 ---
 
-## C. Story-Slideshows & Outreach (Grundkurs)
+## B. Instagram
 
-### C1 · Story-Slideshow für TikTok
+### B1 · Beschreibung für einen Beitrag
 ```
-Schreib mir eine Story-Slideshow (6 Bilder) im POV-Format zum Thema [z. B. Pendeln / Sonntagabend / Gehaltserhöhung]. Pro Bild ein kurzer Text + Bildidee, dazu Beschreibung und Hashtags.
-```
-*Wichtig:* Ich-Geschichten nur, wenn du sie selbst erlebt hast.
-
-### C2 · Erstnachricht nach einem Signal
-```
-Jemand hat [kommentiert: „…“ / mir gefolgt / meinen Beitrag über … geliked / mein Profil angesehen]. Schreib mir eine kurze, persönliche Erstnachricht.
+Ich poste auf Instagram [2–4] Bilder aus [Zypern / Brasilien / Frankfurt]: [kurz beschreiben, z. B. „Cedric am Fenster mit Meerblick, Dachterrasse“]. Gib mir 5 kurze Beschreibungen – normal, wie ein Mensch das unter sein Foto schreibt, keine Sprüche, höchstens 1 Hashtag.
 ```
 
-### C3 · Instagram-Erstnachricht zu einem öffentlichen Kommentar
+### B2 · Bilder für einen Beitrag auswählen
 ```
-Unter einem Beitrag von [Account] zum Thema [Thema] hat jemand kommentiert: „[Kommentar]“. Schreib mir eine kurze, persönliche Erstnachricht mit Bezug darauf – ohne Werbetext.
+Ich bin bei Instagram-Beitrag [Nummer] von 6–9, Abschnitt [Zypern / Brasilien / Frankfurt]. Welche Kombination aus 1–2 Cedric-Bildern und 1–2 Stimmungsbildern passt gut?
+```
+
+### B3 · Bio prüfen
+```
+Check meine Bio: [Bio]. Passt sie zu den Regeln (Was · Wie · Aufruf, keine Versprechen, keine Links)?
+```
+
+---
+
+## C. Kommentare & Nachrichten
+
+### C1 · Antwort auf einen Kommentar
+```
+Jemand hat unter meiner Slideshow kommentiert: „[Kommentar]“. Was antworte ich öffentlich?
+```
+
+### C2 · Entwurf für eine erste Nachricht
+```
+Jemand hat [kommentiert: „…“ / mir gefolgt / meine Slideshow über … geliked / mein Profil angesehen]. Gib mir 2 kurze Entwürfe für eine erste Nachricht in meinem Ton: [locker / ruhig / direkt].
+```
+*Danach:* Deine eigene Version im Wochen-Call mit Sören abstimmen.
+
+### C3 · Instagram: Entwurf zu einem öffentlichen Kommentar
+```
+Unter einem Beitrag zum Thema [Thema] hat jemand kommentiert: „[Kommentar]“. Gib mir 2 kurze Entwürfe für eine Nachricht mit Bezug darauf – ohne Werbetext, ohne Link.
 ```
 
 ### C4 · Wie geht's im Gespräch weiter?
@@ -82,42 +72,49 @@ Unter einem Beitrag von [Account] zum Thema [Thema] hat jemand kommentiert: „[
 Mein Gespräch bisher (ohne Namen): [Ich: … / Er: … / Ich: …]. Was schreibe ich als Nächstes, um zu qualifizieren oder einen Termin vorzuschlagen?
 ```
 
-### C5 · Einwand beantworten
+### C5 · Einwand
 ```
-Ein Interessent schreibt: „[z. B. Ich hab eigentlich keine Zeit / Ist das seriös? / Was kostet das?]“. Wie antworte ich?
+Ein Interessent schreibt: „[z. B. Ich hab keine Zeit / Ist das seriös? / Was kostet das?]“. Wie antworte ich, ohne Versprechen zu machen?
+```
+
+### C6 · Follow-up
+```
+Ein Interessent hat seit [1 / 3 / 5] Tagen nicht geantwortet. Zuletzt ging es um [Thema]. Gib mir einen kurzen Entwurf für ein Follow-up.
 ```
 
 ---
 
-## D. Dokumentation (Grundkurs)
+## D. Text-Check & Dokumentation
 
-### D1 · Tagesbericht aus Stichpunkten
+### D1 · Text-Check vor dem Posten
 ```
-Mach mir einen Tagesbericht aus diesen Stichpunkten: [z. B. Beitrag 3 gepostet, Set 01, 2x UMSTIEG, 1 Termin Fr, Outreach 30 Nachrichten, morgen früher posten]
+Check mal meinen Text, bevor ich poste:
+[Slideshow-Texte oder Instagram-Beschreibung]
+```
+
+### D2 · Tagesbericht aus Stichpunkten
+```
+Mach mir einen Tagesbericht aus diesen Stichpunkten: [z. B. Slideshow POV Pendeln gepostet, Instagram Beitrag 3, 20 Nachrichten, 2x UMSTIEG, 1 Termin Fr, morgen früher anfangen]
 ```
 *Danach:* Text ins Dashboard unter „Tagesberichte“ kopieren.
 
-### D2 · Lead-Beschreibung fürs Dashboard (Termin buchen)
+### D3 · Lead-Beschreibung fürs Dashboard (Termin buchen)
 ```
 Formuliere mir eine Beschreibung (mind. 100 Zeichen) für einen Lead: [Alter], [Job], [wie er auf uns kam], [was er will], [welche Fragen er hatte]. Ohne Namen.
 ```
 
 ---
 
-## E. Fortgeschritten (nur nach Freigabe)
+## E. Fortgeschritten
 
-### E1 · Ideen für neue Beiträge
+### E1 · Was lief gut? (Wochenrückblick)
 ```
-Gib mir 5 Ideen für neue Beiträge. Je: Thema, Hook für Bild 1, passendes Set. Markiere sie als Vorschlag zur Freigabe.
+Diese Woche hatten meine Slideshows folgende Zahlen: [Format/Thema – Aufrufe – Kommentare – UMSTIEG]. Was fällt dir auf und was sollte ich nächste Woche testen?
 ```
-*Danach:* Ideen an Sören schicken – erst nach Freigabe posten.
+*Danach:* Ergebnisse im Wochen-Call mit Sören besprechen.
 
-### E2 · Beitrag für ein bestimmtes Segment
+### E2 · Neues Format ausprobieren
 ```
-Schreib einen Beitrag für [z. B. Eltern mit Vollzeitjob / Leute, die pendeln / Introvertierte]. Set [Nummer]. Als Vorschlag zur Freigabe.
+Ich möchte ein neues Slideshow-Format testen: [Idee]. Schreib mir einen Entwurf und sag mir, worauf ich bei den Regeln achten muss.
 ```
-
-### E3 · Was lief gut? (Wochenrückblick)
-```
-Diese Woche hatten meine Beiträge folgende Zahlen: [Beitrag – Aufrufe – Kommentare – UMSTIEG]. Was fällt dir auf und was sollte ich nächste Woche testen?
-```
+*Danach:* Vor dem Posten mit Sören abstimmen.

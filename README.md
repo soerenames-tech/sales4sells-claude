@@ -1,6 +1,6 @@
 # Sales4Sells · Claude-Skill für das Marketing-Team
 
-Mit diesem Skill kennt [Claude](https://claude.ai) das Angebot von Sales4Sells (das **Umstieg-Modell**), unsere Zielgruppe und unsere Regeln. Damit hilft dir Claude bei deinen Beiträgen und Story-Slideshows, beim Outreach (Erstnachrichten, Follow-ups, Einwände), beim Text-Check und beim Tagesbericht.
+Mit diesem Skill kennt [Claude](https://claude.ai) das Angebot von Sales4Sells (das **Umstieg-Modell**), unsere Zielgruppe und unsere Regeln. Damit hilft dir Claude bei deinen TikTok-Slideshows und Instagram-Beschreibungen, bei Entwürfen für deine Nachrichten (Erstnachrichten, Follow-ups, Einwände), beim Text-Check und beim Tagesbericht.
 
 > **Für wen?** Poster und Marketer im Team von Sales4Sells. Die ausführliche Anleitung mit Video findest du im Videokurs, Modul „Claude einrichten“.
 
@@ -45,17 +45,17 @@ Die wichtigsten auf einen Blick:
 
 | Du willst … | Schreib Claude … |
 |---|---|
-| Varianten für einen Beitrag | `Gib mir 3 Varianten für Beitrag 2 mit Set 04.` |
-| Auf einen Kommentar antworten | `Jemand hat kommentiert: „…“ – was antworte ich öffentlich und per DM?` |
-| Eine Story-Slideshow für TikTok | `Schreib mir eine Story-Slideshow (6 Bilder) im POV-Format zum Thema Pendeln.` |
-| Jemanden nach einem Like anschreiben | `Jemand hat meinen Beitrag über … geliked. Schreib mir eine kurze Erstnachricht.` |
+| Eine Slideshow für TikTok | `Schreib mir eine TikTok-Slideshow (6 Bilder) im Format POV zum Thema Pendeln.` |
+| Eine Instagram-Beschreibung | `Ich poste 3 Bilder aus Brasilien: … Gib mir 5 kurze, normale Beschreibungen.` |
+| Auf einen Kommentar antworten | `Jemand hat kommentiert: „…“ – was antworte ich öffentlich?` |
+| Entwurf nach einem Like | `Jemand hat meine Slideshow über … geliked. Gib mir 2 kurze Entwürfe für eine erste Nachricht.` |
 | Deinen Text prüfen | `Check mal meinen Text, bevor ich poste: …` |
 | Deinen Tagesbericht schreiben | `Mach mir einen Tagesbericht aus diesen Stichpunkten: …` |
 
 ## 6. Drei Regeln
 
 1. **Keine echten Daten von Interessenten** in Claude – keine Namen, Telefonnummern oder kopierten Chatverläufe. Schreib lieber „Interessent, 31, Vollzeit“.
-2. **Varianten** der 9 vorgegebenen Beiträge (gleiches Thema, gleiche Aussage) darfst du posten. **Komplett neue Beiträge** schickst du vorher an Sören.
+2. **Eigene Worte:** Nimm Claudes Texte als Entwurf. Deine Nachrichten stimmst du im Wochen-Call mit Sören ab, ganz neue Formate vor dem Posten.
 3. **Du bist verantwortlich:** Lies jeden Text, bevor du ihn postest oder abschickst.
 
 ## Updates

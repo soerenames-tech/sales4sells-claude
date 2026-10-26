@@ -1,65 +1,92 @@
 # Beispiele
 
-## Bild-Sets (Ordner „02 – Bilder für deine Beiträge“)
-| Set | Was zu sehen ist | Passt zu |
+## Bilder-Ordner „02 – Bilder“ (nach Zeitabschnitten)
+Cedric wird von Abschnitt zu Abschnitt älter. Dateinamen beginnen mit **„Cedric – …“** (Cedric ist zu sehen) oder **„Stimmung – …“** (nur Ort/Atmosphäre).
+
+| Abschnitt | Cedric-Bilder (Auswahl) | Stimmungsbilder |
 |---|---|---|
-| 01 Workshop | Cedric im Seminarraum, dunkler Pullover, Flipchart | Kompetenz, Ausbildung, „kein Drücker-Job“ |
-| 02 Business-Meeting & unterwegs | Lounge-Meeting mit Laptop, Aufzug mit Mantel | Cedrics Weg, Business-Alltag |
-| 03 Skyline Frankfurt | nur Skyline (Regen, Sonnenuntergang) | Text-starke Beiträge, „Kündige nicht“ |
-| 04 Remote mit Meerblick | Cedric am Fenster mit Meerblick, Dachterrasse | Remote, „eine Stunde am Tag“, Freiheit |
-| 05 Strand & Sonnenuntergang | Strand, Meer | Freiheit – sparsam einsetzen, kein Urlaubs-Protz |
-| 06 Gelbes Polo | Sommer-Look, Palme | lockere Erklär-Beiträge |
-| 07 Boot | auf dem Boot | Reserve – wirkt schnell nach Luxus, nur mit Freigabe |
+| 1 – Zypern (am jüngsten) | Resort mit Golfcart, Selfie unter Palme, Selfie gelbes Polo, Boot (lächelnd / mit Meer), Pool | keine reinen – Boot- und Resort-Bilder haben viel Umgebung |
+| 2 – Brasilien | Fenster mit Meerblick (ganz/nah), Sonnenuntergang vor Skyline, Strand stehend, Selfie mit Sonnenbrille, Kokosnuss unter Palmen | Dachterrasse mit Skyline, Strand bei Sonnenuntergang |
+| 3 – Frankfurt (heute) | Workshop (stehend, sitzend, am Fenster), Lounge, unterwegs im Aufzug, Selfies (Oktoberfest, schwarzes Shirt, Event) | Skyline bei Regen, bei Sonnenuntergang, vom Mainufer |
 
-## Aufbau eines Beitrags
-- **Bild 1:** Hook (max. ~10 Wörter), weißer Texthintergrund, Gesicht frei
-- **Bild 2/3 (optional):** je ein kurzer Satz, der den Gedanken weiterführt
-- **Beschreibung:** 2–3 Sätze, endet mit „Kommentier UMSTIEG …“
-- **Hashtags:** 3–5, z. B. #remotejob #vertrieb #nebenberuflich #karriere #homeoffice
+## Instagram
 
-## Die 9 Standard-Beiträge (vorgegeben)
-1. **Der Umstieg** (Set 01) – Bild 1: „Vom Angestellten zum Remote-Vertriebler.“ · Bild 2: „Schritt für Schritt – neben dem Job.“
-2. **Eine Stunde am Tag** (Set 04) – „Eine Stunde am Tag. Mehr braucht es am Anfang nicht.“ · „Laptop. Headset. Fertig.“
-3. **Kündige nicht** (Set 03) – „Kündige nicht.“ · „Steig um.“ · „Erst wenn das Neue trägt, reduzierst du.“
-4. **Cedrics Weg** (Set 02) – „Mit 18 im Vertrieb angefangen. Noch während der Schule.“ · „Über eine Marketing-Agentur zur Vertriebsagentur.“ · „Heute Head of Sales.“
-5. **Kein Drücker-Job** (Set 01) – „Vertrieb ist kein Drücker-Job.“ · „Fragen stellen. Zuhören. Termin vereinbaren.“
-6. **Dein Büro** (Set 05) – „Dein Büro ist da, wo dein Laptop ist.“
-7. **Was macht ein Remote-Vertriebler?** (Set 06) – Frage · „Unternehmen anrufen. Interesse wecken.“ · „Termine vereinbaren. Von zuhause.“
-8. **Die 4 Stufen** (Set 04) – „Das Umstieg-Modell in 4 Stufen“ · „1. Lernen · 2. Starten“ · „3. Reduzieren · 4. Umsteigen“
-9. **Für wen das nichts ist** (Set 01) – „Für wen das NICHTS ist:“ · „Wer schnelles Geld ohne Arbeit sucht.“ · „Wer keine Stunde am Tag hat.“
+### Die ersten 6–9 Beiträge
+- Reihenfolge: **Zypern → Brasilien → Frankfurt**, je 2–3 Beiträge, einer pro Tag. Der neueste Beitrag steht oben – so sieht man zuerst, wo Cedric heute ist.
+- Pro Beitrag **1–2 Bilder von Cedric + 1–2 Stimmungsbilder**, alle aus **einem** Abschnitt. Das erste Bild zeigt Cedric gut.
+- **Kein Text aufs Bild.**
 
-**Beispiel-Beschreibung (Beitrag 2):**
-> Eine Stunde am Tag reicht zum Start. Du lernst neben dem Job – und ab Tag 7 telefonierst du für eine echte Firma, zu Zeiten, die zu deinem Job passen. Kommentier UMSTIEG für alle Infos.
-> #homeoffice #remotejob #vertrieb #nebenjob
+### Beschreibungen – so ja
+Kurz, normal, wie ein Mensch es unter sein eigenes Foto schreibt. Ein bisschen angeben ist okay. 0–2 Hashtags.
+- „Aussicht für heute.“
+- „Nicht der schlechteste Arbeitsplatz.“
+- „Hätte schlimmer sein können.“
+- „Brasilien, ich komm wieder.“
+- „Frankfurt im Regen hat auch was.“
+- „Workshop-Tag. Kopf voll, Akku leer.“
+- „Kurz durchatmen, dann weiter.“
+- „Montag kann kommen.“
+- „Zypern war gut zu mir.“
+- „Guter Tag.“
 
-## Beispiel: 3 Hook-Varianten zum Thema „Pendeln“ (Set 04)
-- Frage: „Jeden Tag 90 Minuten pendeln – für einen Job, der auch von zuhause ginge?“
-- Zahl: „330 Stunden im Jahr. So lange sitzt du auf dem Weg ins Büro.“
-- Szene: „Stau auf der A3. Schon wieder.“
+### Beschreibungen – so nicht
+- Kalender-Sprüche und Motivations-Floskeln: „Erfolg ist kein Zufall.“, „Dein Mindset entscheidet.“, „Freiheit ist eine Entscheidung.“
+- Lange Texte, Hashtag-Wände, Emoji-Ketten
+- Verdienst, Versprechen, Werbung („Verdiene von überall!“)
 
-## Antworten auf Kommentare und Nachrichten
+## TikTok-Slideshows
 
-**Kommentar „UMSTIEG“ (öffentliche Antwort):**
-> Schön, dass du dabei bist! Ich hab dir eine Nachricht geschickt 🙂
+Pro Bild ein kurzer Satz (max. ~12 Wörter), dazu eine Bildidee. Beschreibung: 1–2 Sätze + „Kommentier UMSTIEG“ + 3–5 Hashtags (z. B. #vertrieb #remotejob #nebenjob #karriere #homeoffice).
 
-**Erste Nachricht (DM):**
-> Hey 👋 danke für deinen Kommentar! Kurz zum Umstieg-Modell: Du lernst neben deinem Job Telefonvertrieb – zum Start reicht eine Stunde am Tag. Ab Tag 7 telefonierst du für eine unserer Partnerfirmen, und im Job reduzierst du erst, wenn das Neue trägt. Darf ich fragen, was du aktuell beruflich machst?
+### Format: POV
+1. POV: Du bist 31, Vollzeit – und sonntags um sechs graut dir schon vor Montag. *(Stimmungsbild Büro)*
+2. Guter Job. Okayes Gehalt. Aber 40 Stunden für die Ziele von jemand anderem.
+3. Nebenjob probiert? Pakete am Samstag. Bringt Geld – aber kein Weiterkommen.
+4. Dann das Umstieg-Modell: Telefonvertrieb lernen. Neben dem Job. *(Cedric, Frankfurt)*
+5. Eine Stunde am Tag. Ab Tag 7 telefonierst du für eine echte Firma.
+6. Und erst wenn es trägt, gehst du im Job runter. Kommentier UMSTIEG.
+
+### Format: Cedrics Weg (nur bestätigte Fakten)
+1. Mit 18 im Vertrieb angefangen. Noch während der Schule. *(Cedric, Zypern)*
+2. Erst eine Marketing-Agentur. Dann eine Vertriebsagentur.
+3. Jeden Tag telefoniert. Jeden Tag ein bisschen besser. *(Cedric, Brasilien)*
+4. Heute Head of Sales – über 20 Leute eingearbeitet. *(Cedric, Frankfurt)*
+5. Und er telefoniert bis heute selbst.
+6. Wie der Einstieg neben dem Job geht? Kommentier UMSTIEG.
+
+### Format: Vergleich
+1. Nebenjob oder Remote-Vertrieb? *(Cedric)*
+2. Nebenjob: Du tauschst Zeit gegen einen festen Stundenlohn.
+3. Remote-Vertrieb: Du lernst ein Handwerk, das überall gefragt ist.
+4. Nebenjob: Samstag weg.
+5. Remote-Vertrieb: Start mit einer Stunde am Tag – passend zu deinem Job.
+6. Was passt besser zu dir? Kommentier UMSTIEG.
+
+### Format: Alltag
+1. Wie eine Stunde Telefonvertrieb wirklich aussieht. *(Cedric am Laptop/Workshop)*
+2. Laptop auf. Headset auf. Liste mit Firmen.
+3. Rund 30 Anwahlen pro Stunde – am Anfang.
+4. Die meisten sagen Nein. Das ist normal.
+5. Ein paar sagen: „Erzählen Sie mal.“
+6. Mehr ist es nicht. Kommentier UMSTIEG, wenn du's lernen willst.
+
+## Kommentare (öffentlich)
+
+**Kommentar „UMSTIEG“:**
+> Schön, dass du dabei bist! Ich hab dir eine Nachricht geschickt.
 
 **Frage „Was verdient man da?“ – öffentlich:**
-> Gute Frage! Eine feste Zahl kann dir seriös niemand versprechen – im Vertrieb läuft viel über Provision. Ich schreib dir kurz privat 🙂
-
-**… und per DM:**
-> Das hängt stark von dir ab – im Vertrieb wird meist über Provision bezahlt. Genau das schauen wir uns im kostenlosen Erstgespräch für deine Situation an. Was machst du denn aktuell beruflich?
-
-**Frage „Was kostet das?“:**
-> Das besprechen wir im kostenlosen Erstgespräch – vorher schauen wir, ob es überhaupt zu dir passt. Darf ich fragen, was du gerade beruflich machst?
+> Gute Frage! Eine feste Zahl kann dir seriös niemand versprechen – im Vertrieb läuft viel über Provision. Ich schreib dir kurz privat.
 
 **Skeptischer Kommentar „Klingt nach Abzocke“:**
-> Verstehe ich – in dem Bereich gibt es viel Hype. Deshalb versprechen wir kein schnelles Geld: Du lernst neben dem Job und reduzierst erst, wenn es trägt. Schau's dir in Ruhe an, das Erstgespräch ist kostenlos.
+> Verstehe ich – in dem Bereich gibt es viel Hype. Deshalb versprechen wir kein schnelles Geld: Du lernst neben dem Job und reduzierst erst, wenn es trägt.
 
-**Keine Antwort seit einem Tag (Follow-up):**
-> Hey, wollte nur kurz nachhaken – ist meine letzte Nachricht untergegangen? 🙂
+## Nachrichten (DM) – nur zur Orientierung
+Keine Vorlagen zum Kopieren. Diese Beispiele zeigen nur die Richtung; der Poster formuliert in seinen Worten und stimmt seine Version im Wochen-Call mit Sören ab.
+- **Nach „UMSTIEG“:** kurz bedanken, ein Satz zum Umstieg-Modell, dann eine Frage („Was machst du aktuell beruflich?“).
+- **„Was verdient man?“:** keine Zahl, Provision erwähnen, aufs Erstgespräch verweisen, Frage zurück.
+- **„Was kostet das?“:** kein Preis im Chat, das klärt das Erstgespräch, Frage zurück.
 
 ## Beispiel: Tagesbericht aus Stichpunkten
-Stichpunkte: „Beitrag 2 gepostet, Set 04, 3x UMSTIEG, 1 Termin Do, Upload hat gedauert, morgen schneller antworten“
-> Heute habe ich Beitrag 2 aus Set 04 auf TikTok und Instagram gepostet und danach 10 Minuten aufgewärmt. Drei Leute haben „UMSTIEG“ kommentiert, mit allen habe ich geschrieben – ein Termin für Donnerstag ist gebucht. Zufrieden: 8/10, weil der erste Termin steht; der Upload hat lange gedauert. Morgen antworte ich schneller auf Kommentare.
+Stichpunkte: „Slideshow Cedrics Weg gepostet, Instagram Beitrag 4, 22 Nachrichten, 3x UMSTIEG, 1 Termin Do, Upload hat gedauert, morgen schneller antworten“
+> Heute habe ich eine Slideshow zu Cedrics Weg auf TikTok und meinen vierten Instagram-Beitrag gepostet. Ich habe 22 Outreach-Nachrichten geschrieben, drei Leute haben „UMSTIEG“ kommentiert – ein Termin für Donnerstag ist gebucht. Zufrieden: 8/10, weil der Termin steht; der Upload hat lange gedauert. Morgen antworte ich schneller auf Kommentare.
