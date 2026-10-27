@@ -17,7 +17,7 @@ Cedric wird von Abschnitt zu Abschnitt älter. Dateinamen beginnen mit **„Cedr
 - **Kein Text aufs Bild.**
 
 ### Beschreibungen – so ja
-Kurz, normal, wie ein Mensch es unter sein eigenes Foto schreibt. Ein bisschen angeben ist okay. 0–2 Hashtags.
+Kurz und lässig, wie ein Mensch es unter sein eigenes Foto schreibt – gern auch auf Englisch. Ein bisschen angeben ist okay. 0–2 Hashtags.
 - „Aussicht für heute.“
 - „Nicht der schlechteste Arbeitsplatz.“
 - „Hätte schlimmer sein können.“
@@ -28,6 +28,9 @@ Kurz, normal, wie ein Mensch es unter sein eigenes Foto schreibt. Ein bisschen a
 - „Montag kann kommen.“
 - „Zypern war gut zu mir.“
 - „Guter Tag.“
+- „Living my best life.“
+- „Office with a view.“
+- „Work from anywhere.“
 
 ### Beschreibungen – so nicht
 - Kalender-Sprüche und Motivations-Floskeln: „Erfolg ist kein Zufall.“, „Dein Mindset entscheidet.“, „Freiheit ist eine Entscheidung.“
@@ -36,7 +39,7 @@ Kurz, normal, wie ein Mensch es unter sein eigenes Foto schreibt. Ein bisschen a
 
 ## TikTok-Slideshows
 
-Pro Bild ein kurzer Satz (max. ~12 Wörter), dazu eine Bildidee. Beschreibung: 1–2 Sätze + „Kommentier UMSTIEG“ + 3–5 Hashtags (z. B. #vertrieb #remotejob #nebenjob #karriere #homeoffice).
+Pro Bild ein kurzer Satz (max. ~12 Wörter), dazu eine Bildidee. Beschreibung: oben „Kommentier UMSTIEG, wenn …“, darunter 1–2 Sätze mit dem Learning der Story, 3–4 Hashtags (z. B. #vertrieb #remotejob #nebenjob #karriere #homeoffice).
 
 ### Format: POV
 1. POV: Du bist 31, Vollzeit – und sonntags um sechs graut dir schon vor Montag. *(Stimmungsbild Büro)*
@@ -82,7 +85,7 @@ Pro Bild ein kurzer Satz (max. ~12 Wörter), dazu eine Bildidee. Beschreibung: 1
 > Verstehe ich – in dem Bereich gibt es viel Hype. Deshalb versprechen wir kein schnelles Geld: Du lernst neben dem Job und reduzierst erst, wenn es trägt.
 
 ## Nachrichten (DM) – nur zur Orientierung
-Keine Vorlagen zum Kopieren. Diese Beispiele zeigen nur die Richtung; der Poster formuliert in seinen Worten und stimmt seine Version im Wochen-Call mit Sören ab.
+Keine Vorlagen zum Kopieren. Diese Beispiele zeigen nur die Richtung; der Poster formuliert in seinen Worten und stimmt seine Version im 1:1-Call mit Sören ab.
 - **Nach „UMSTIEG“:** kurz bedanken, ein Satz zum Umstieg-Modell, dann eine Frage („Was machst du aktuell beruflich?“).
 - **„Was verdient man?“:** keine Zahl, Provision erwähnen, aufs Erstgespräch verweisen, Frage zurück.
 - **„Was kostet das?“:** kein Preis im Chat, das klärt das Erstgespräch, Frage zurück.

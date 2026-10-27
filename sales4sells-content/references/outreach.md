@@ -5,7 +5,7 @@ Posten ist zweitrangig – Gespräche zählen. Der Weg: **Slideshow auf TikTok �
 
 - **TikTok:** Nur Menschen anschreiben, die ein **Signal** gegeben haben: Kommentar, neuer Follower, Like, Profilaufruf. Niemals Fremde ohne Signal.
 - **Instagram:** Erst wenn das Profil **6–9 Beiträge** hat. Dann zusätzlich vorsichtiger Cold Outreach – nur Menschen, die sich **öffentlich zum Thema geäußert** haben (z. B. ein Kommentar unter einem Beitrag zu Nebenjob, Homeoffice, Job-Frust).
-- **Wochen-Call:** Am Anfang telefoniert jeder Poster einmal pro Woche ca. 30 Minuten mit Sören. Dort werden die eigenen Nachrichten gemeinsam ausgearbeitet. Es gibt bewusst **keine festen Vorlagen** – wenn alle dieselbe Nachricht schicken, merkt man das sofort.
+- **Calls:** Gruppen-Calls und 1:1-Calls mit Sören (vom Poster selbst angefragt). Dort werden die eigenen Nachrichten gemeinsam ausgearbeitet. Es gibt bewusst **keine festen Vorlagen** – wenn alle dieselbe Nachricht schicken, merkt man das sofort.
 
 ## TikTok-Slideshows
 
@@ -15,7 +15,7 @@ Posten ist zweitrangig – Gespräche zählen. Der Weg: **Slideshow auf TikTok �
 3. **Vergleich** – zwei Wege gegenüberstellen: Nebenjob gegen Remote-Vertrieb, angestellt gegen selbstständig, „Kündigen“ gegen „Umsteigen“.
 4. **Alltag** – wie eine Stunde Telefonvertrieb wirklich aussieht (Laptop, Headset, ca. 30 Anwahlen pro Stunde am Anfang, viele Neins, ein paar Gespräche).
 
-### Aufbau (meist 6 Bilder)
+### Aufbau (meist 5–8 Bilder, bei längerer Story bis 10)
 1. **Hook** – die Situation, in der sich die Zielperson wiedererkennt
 2. **Ausgangslage** – was nervt (konkret: Sonntagabend, Pendeln, Gehaltsdeckel)
 3. **Problem** – was nicht funktioniert hat (Nebenjob, Online-Kurs ohne Praxis, „einfach kündigen“-Tipps)
@@ -28,8 +28,13 @@ Bei Vergleichen: Bild 1 stellt die Frage, dann abwechselnd die beiden Wege, letz
 ### Texte und Bilder
 - Pro Bild ein kurzer Satz, max. ~12 Wörter, weißer Texthintergrund, Gesicht frei lassen.
 - **Bilder mischen ist erlaubt:** Cedric aus allen Zeitabschnitten, Stimmungsbilder aus dem Ordner, eigene Fotos, lizenzfreie Bilder (Pexels, Unsplash). **Keine Bilder aus Google/Pinterest** (Urheberrecht).
-- Beschreibung: 1–2 Sätze + „Kommentier UMSTIEG“ + 3–5 Hashtags.
+- Beschreibung: oben der Aufruf („Kommentier UMSTIEG, wenn …“), darunter 1–2 Sätze, was man aus der Story lernt, 3–4 Hashtags.
+- Sound: passender Trend-Sound (emotional → ruhiger, Erfolg → peppiger), leise. Text in Box oder klarer weißer Schrift.
+- Marktrecherche: gut laufende Slideshows aus der Nische speichern; als Screenshots an Claude geben → Aufbau übernehmen, eigene Story schreiben.
 - **Ich-Form nur mit echten Fakten.** Erfundene Erlebnisse („Ich war im Job gefangen … heute bin ich frei“) sind irreführende Werbung – abmahnfähig, Accounts werden gesperrt.
+
+## Auf „UMSTIEG“-Kommentare reagieren
+1. Kommentar liken. 2. Kurz öffentlich antworten („Hab dir geschrieben“). Auf TikTok geht eine DM oft erst, wenn man sich gegenseitig folgt – dann: „Folg mir kurz, dann kann ich dir schreiben“ und zurückfolgen. 3. Per DM schreiben.
 
 ## Signale abarbeiten (TikTok)
 Reihenfolge nach Wärme: **1. Kommentare → 2. neue Follower → 3. Likes → 4. Profilaufrufe.** Kommentare am besten innerhalb einer Stunde.
@@ -41,7 +46,7 @@ Profilaufrufe sieht man nur, wenn die Funktion in den TikTok-Einstellungen aktiv
 - **Endet mit einer Frage** (z. B. was die Person beruflich macht)
 - **Kein Link**, kein Werbetext, keine Copy-Paste-Nachricht an alle
 
-Wenn ein Poster Hilfe will: 2 unterschiedliche Entwürfe anbieten, die zu seinem Ton passen, und daran erinnern, die eigene Version im Wochen-Call abzustimmen.
+Wenn ein Poster Hilfe will: 2 unterschiedliche Entwürfe anbieten, die zu seinem Ton passen, und daran erinnern, die eigene Version im 1:1-Call mit Sören abzustimmen.
 
 ## Qualifizieren (3 Dinge, locker im Gespräch)
 1. **Über 18?**

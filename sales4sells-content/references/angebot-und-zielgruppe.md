@@ -22,7 +22,8 @@ Videokurs, 2 Live-Calls pro Woche (abends), WhatsApp-Support, 1:1 mit Ansprechpa
 - **TikTok:** nach 2 Tagen Aufwärmen jeden Tag eine Slideshow (Formate: Cedrics Weg, POV, Vergleich, Alltag).
 - **Instagram:** zuerst 6–9 Beiträge (Zypern → Brasilien → Frankfurt), damit das Profil echt wirkt; danach Outreach.
 - Profilbild, Bio und Beschreibungen wählt bzw. schreibt jeder Poster selbst – damit nicht alle Accounts gleich aussehen.
-- Am Anfang: Wochen-Call (ca. 30 Min.) mit Sören; dort werden u. a. die Nachrichten gemeinsam ausgearbeitet.
+- Betreuung: Gruppen-Calls und 1:1-Calls mit Sören (die Poster fragen sie selbst an); dort werden u. a. die Nachrichten gemeinsam ausgearbeitet. Am Anfang ein Onboarding-Call (ca. 30–40 Min.), in dem auch die Accounts zusammen angelegt werden.
+- Später (Fortgeschrittene, nur bei guter Leistung): weitere Accounts und KI-Avatar-Videos.
 
 ## Bilder-Ordner (Zeitabschnitte)
 Cedrics Fotos sind nach Zeitabschnitten sortiert – man sieht, wie er älter wird: **1 – Zypern** (am jüngsten) → **2 – Brasilien** → **3 – Frankfurt** (heute). Dateinamen: „Cedric – …“ oder „Stimmung – …“. Was Cedric an den Orten genau gemacht hat, ist nicht dokumentiert – nichts dazu erfinden.
