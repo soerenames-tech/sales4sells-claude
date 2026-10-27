@@ -17,11 +17,11 @@ Die Datei **nicht entpacken**.
 
 1. [claude.ai](https://claude.ai) öffnen und anmelden
 2. Unten links auf deinen Namen → **Settings** (Einstellungen)
-3. Reiter **Capabilities** (Funktionen) → **Code execution and file creation** einschalten
-4. Weiter unten bei **Skills** → **Upload skill** → `sales4sells-content.zip` auswählen
+3. Code-Ausführung einschalten: **Code execution and file creation** (im neuen Layout: **Create and edit files**)
+4. **Skills** öffnen (je nach Version unter Settings oder **Customize → Skills**) → **Upload a skill** → `sales4sells-content.zip` auswählen
 5. Schalter bei **sales4sells-content** einschalten
 
-> Die Menünamen können je nach Sprache und Version leicht abweichen. Skills brauchen in der Regel einen bezahlten Claude-Plan (z. B. Pro). Siehst du den Bereich „Skills“ nicht? → Abschnitt 4.
+> Die Menünamen können je nach Sprache und Version leicht abweichen. **Das kostenlose Claude-Konto reicht** – Skills gibt es auch im Gratis-Plan (dort gilt nur ein Nachrichtenlimit pro Tag). Den Bereich „Skills“ siehst du erst, wenn die Code-Ausführung an ist. Klappt es trotzdem nicht? → Abschnitt 4.
 
 ## 3. Testen
 
@@ -35,7 +35,7 @@ Wenn Claude die vier Stufen erklärt (Lernen → Starten → Reduzieren → Umst
 
 ## 4. Ohne Skill: Starter-Text
 
-Kein bezahlter Plan? Kopiere den Inhalt von **[starter-text.txt](starter-text.txt)** am Anfang jedes neuen Chats hinein. Dann kennt Claude in diesem Chat die wichtigsten Infos und Regeln.
+Skill klappt nicht (z. B. am Handy)? Kopiere den Inhalt von **[starter-text.txt](starter-text.txt)** am Anfang jedes neuen Chats hinein. Dann kennt Claude in diesem Chat die wichtigsten Infos und Regeln.
 
 ## 5. Was du Claude fragen kannst
 
