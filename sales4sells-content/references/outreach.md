@@ -16,13 +16,35 @@ Posten ist zweitrangig – Gespräche zählen. Der Weg: **Slideshow auf TikTok �
 4. **Alltag** – wie eine Stunde Telefonvertrieb wirklich aussieht (Laptop, Headset, ca. 30 Anwahlen pro Stunde am Anfang, viele Neins, ein paar Gespräche). Auch: „Was ist Telefonvertrieb eigentlich? Einfach erklärt.“
 5. **Frage an die Leute** (ab und zu) – ein Reizthema als Frage: „Warum sind 40 Stunden eigentlich noch normal?“, „Ehrlich: Wie viele Stunden arbeitest du?“ – letztes Bild: „Kommentier UMSTIEG, wenn …“. Holt in unserer Nische die meisten Kommentare.
 
-### Aufbau (meist 5–8 Bilder, bei längerer Story bis 10)
+### Der Bauplan in acht Bildern (Standard)
+Abgeleitet aus zwei Slideshows von Joshua Kokume (160.900 Aufrufe / 1.003 Kommentare und 73.400 / 718) und den Videos mit den meisten Kommentaren in unserer Nische:
+1. **Hook über das Leben** der Zielperson („40 Stunden – und wofür?“), nicht über das Produkt
+2. **Wer spricht** – Cedrics echte Stationen
+3. **Neugier** – „Was ich mache?“
+4. **Einwand vorweg** – „Kein Trading. Kein Dropshipping. Ein Handwerk: Telefonvertrieb.“
+5. **Was es ist** – Firmen anrufen, Termine vereinbaren
+6. **Was du brauchst** – Laptop, Headset, eine Stunde am Tag
+7. **Der Weg** – ab Tag 7 eine echte Firma
+8. **Aufruf** – „Kommentier UMSTIEG und folg mir – dann schreib ich dir.“
+Nicht übernehmen: Verdienstvergleiche („mehr als Ärzte“, „mehr als mein Chef“), Luxus als Hauptbotschaft, „Ich bin kein Coach, der Geld will“ (unser Programm kostet etwas).
+
+### Drei fertige Vorlagen
+**Erklären – Was ist Telefonvertrieb?** (Vorbild: „Was ist Closing?“, 2.671 Kommentare)
+1. Alle reden von Remote-Jobs. Aber was ist Telefonvertrieb eigentlich? · 2. Du rufst Firmen an, fragst nach ihrem Problem, vereinbarst einen Termin. · 3. Mit Laptop und Headset. Von zuhause. · 4. Kein Haustür-Verkauf. Kein Trading. Kein Dropshipping. · 5. Am Anfang rund 30 Anrufe pro Stunde. Die meisten sagen Nein. · 6. Lernen kannst du das neben dem Job. Eine Stunde am Tag. · 7. Ab Tag 7 telefonierst du für eine echte Firma. · 8. Kommentier UMSTIEG und folg mir.
+
+**Reizthema – 40 Stunden** (Vorbild: „Warum ist 40h noch normal?“, 1.049 Kommentare)
+1. 40 Stunden die Woche – und am Monatsende fragst du dich, wofür? · 2. Ich hab mit 18 neben der Schule angefangen zu telefonieren. · 3. Heute bin ich Head of Sales bei einer großen GmbH. · 4. Was ich gelernt hab: Zeit absitzen ist nicht der einzige Weg. · 5. Im Vertrieb zählt, was du kannst – nicht, wie lange du sitzt. · 6. Und das lernst du neben deinem Job. · 7. Keine Kündigung ins Ungewisse. Erst lernen, dann reduzieren. · 8. Kommentier UMSTIEG und folg mir.
+
+**POV – Dein erster Cold Call** (Vorbild: „POV 16-jähriger Cold Caller“, viele Speicherungen)
+1. POV: Dein allererster Cold Call. · 2. Hände schwitzen. Leitfaden vor dir. Wählen. · 3. „Was wollen Sie?“ – aufgelegt. · 4. Zweiter Anruf. Dritter. Zehnter. · 5. Und dann: „Erzählen Sie mal.“ · 6. Genau das lernt man – Schritt für Schritt. · 7. Cedric hat mit 18 genau so angefangen. Heute bildet er andere aus. · 8. Kommentier UMSTIEG, wenn du's lernen willst – und folg mir.
+
+### Alternatives Grundgerüst (meist 5–8 Bilder, bei längerer Story bis 10)
 1. **Hook** – die Situation, in der sich die Zielperson wiedererkennt
 2. **Ausgangslage** – was nervt (konkret: Sonntagabend, Pendeln, Gehaltsdeckel)
 3. **Problem** – was nicht funktioniert hat (Nebenjob, Online-Kurs ohne Praxis, „einfach kündigen“-Tipps)
 4. **Die Wende** – das Umstieg-Modell: Telefonvertrieb lernen, neben dem Job
 5. **Der Weg** – 1 Stunde am Tag, ab Tag 7 bei einer echten Firma
-6. **Ausblick + Aufruf** – Stunden reduzieren, wenn es trägt · „Kommentier UMSTIEG“
+6. **Ausblick + Aufruf** – Stunden reduzieren, wenn es trägt · „Kommentier UMSTIEG und folg mir“
 
 Bei Vergleichen: Bild 1 stellt die Frage, dann abwechselnd die beiden Wege, letztes Bild der Aufruf.
 

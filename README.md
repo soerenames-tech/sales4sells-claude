@@ -66,7 +66,7 @@ Wenn es eine neue Version gibt, sagt Sören Bescheid. Dann:
 2. Die neue ZIP oben unter „Herunterladen“ laden und hochladen
 3. Test: „Welche Version hat dein Sales4Sells-Skill?“ – Claude nennt die Versionsnummer
 
-Aktuelle Version: **1.5** (28.10.2026)
+Aktuelle Version: **1.6** (28.10.2026)
 
 ---
 

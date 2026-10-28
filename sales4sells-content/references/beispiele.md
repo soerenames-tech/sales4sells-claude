@@ -5,9 +5,10 @@ Cedric wird von Abschnitt zu Abschnitt älter. Dateinamen beginnen mit **„Cedr
 
 | Abschnitt | Cedric-Bilder (Auswahl) | Stimmungsbilder |
 |---|---|---|
-| 1 – Zypern (am jüngsten) | Resort mit Golfcart, Selfie unter Palme, Selfie gelbes Polo, Boot (lächelnd / mit Meer), Pool | keine reinen – Boot- und Resort-Bilder haben viel Umgebung |
+| 1 – Zypern (am jüngsten) | Resort mit Golfcart, Selfies (Palme, gelbes Polo, weißes Shirt), Terrasse und Balkon am Meer, Boot (lächelnd / mit Meer), Pool | Cabana Beach Bar, Resort mit Pool, Hotel mit Pool, Essen am Meer |
 | 2 – Brasilien | Fenster mit Meerblick (ganz/nah), Sonnenuntergang vor Skyline, Strand stehend, Selfie mit Sonnenbrille, Kokosnuss unter Palmen | Dachterrasse mit Skyline, Strand bei Sonnenuntergang |
-| 3 – Frankfurt (heute) | Workshop (stehend, sitzend, am Fenster), Lounge, unterwegs im Aufzug, Selfies (Oktoberfest, schwarzes Shirt, Event) | Skyline bei Regen, bei Sonnenuntergang, vom Mainufer |
+| 3 – Frankfurt (heute) | Workshop (stehend, sitzend, am Fenster), Meeting über der Skyline (weit, nah, lachend), Lounge, unterwegs im Aufzug, Selfies (Oktoberfest, Tracht, schwarzes Shirt) | Skyline bei Regen, bei Sonnenuntergang, vom Mainufer, am Main bei Nacht, bewölkt, Flughafen Terminal 3, Meetingraum |
+| 4 – Unterwegs (heute: Ibiza, Yacht, USA) | Strand, Yacht (stehend, lachend), Pool Ibiza, Restaurant, Festival | Hotel/Pool/Lounge Ibiza, Ibiza-Schriftzug, Los Angeles, Ankunft USA, Essen, Terrasse |
 
 ## Instagram
 
