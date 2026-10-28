@@ -54,8 +54,8 @@ Die wichtigsten auf einen Blick:
 
 ## 6. Drei Regeln
 
-1. **Keine echten Daten von Interessenten** in Claude – keine Namen, Telefonnummern oder kopierten Chatverläufe. Schreib lieber „Interessent, 31, Vollzeit“.
-2. **Eigene Worte:** Nimm Claudes Texte als Entwurf. Deine Nachrichten stimmst du im Wochen-Call mit Sören ab, ganz neue Formate vor dem Posten.
+1. **Keine sensiblen Daten** in Claude – keine Telefonnummern oder E-Mail-Adressen von Interessenten. Nachrichten und Screenshots einfügen ist okay.
+2. **Eigene Worte:** Nimm Claudes Texte als Entwurf und passe Sörens Grundnachrichten an die Person an. Ganz neue Formate stimmst du vorher mit Sören ab (Gruppen- oder 1:1-Call).
 3. **Du bist verantwortlich:** Lies jeden Text, bevor du ihn postest oder abschickst.
 
 ## Updates
@@ -66,7 +66,7 @@ Wenn es eine neue Version gibt, sagt Sören Bescheid. Dann:
 2. Die neue ZIP oben unter „Herunterladen“ laden und hochladen
 3. Test: „Welche Version hat dein Sales4Sells-Skill?“ – Claude nennt die Versionsnummer
 
-Aktuelle Version: **1.4** (27.10.2026)
+Aktuelle Version: **1.5** (28.10.2026)
 
 ---
 

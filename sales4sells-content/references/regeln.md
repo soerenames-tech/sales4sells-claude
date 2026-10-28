@@ -15,7 +15,10 @@ Warum es diese Regeln gibt: TikTok und Instagram sperren Accounts für „Get ri
 | Slideshow „Ich war im Job gefangen … heute bin ich frei“ (nicht so passiert) | „POV: Du bist 31, Vollzeit …“ – oder Cedrics echte Stationen |
 | Fremde auf TikTok ohne jedes Signal anschreiben | Nur nach Kommentar, Follow, Like oder Profilaufruf |
 | Bilder aus Google oder Pinterest | Eigene Fotos, Cedrics Fotos, lizenzfreie Bilder (Pexels, Unsplash) |
-| Echter Name + Nummer eines Interessenten im Chat mit Claude | Nachricht ohne Namen, Screenshot mit geschwärztem Namen – „Interessent, 31, Vollzeit“ |
+| Telefonnummer oder E-Mail eines Interessenten im Chat mit Claude | Nachricht oder Screenshot einfügen ist okay – nur ohne Nummer/E-Mail |
+| Erste Nachricht: „Schick mir Vor- und Nachname, Alter, Beruf, Telefonnummer, E-Mail“ | Erst ein Gespräch: Bezug auf den Kommentar + eine Frage. Die Nummer erst, wenn der Termin steht |
+| Unterschrift „Viele Grüße, Cedric“ | Keine Unterschrift; Cedric in der dritten Person („geleitet von Cedric …“) |
+| Bio/Überschrift: „Nebenverdienst 💰“, „Verdiene dein erstes Geld online“, „Kostenlose PDF-Methode“ | Was / Wie / „Kommentier UMSTIEG“ – ohne Geld-Emojis (dafür gab es schon Community-Verstöße) |
 
 ## Weitere Leitplanken
 - **Bilder:** Instagram-Beiträge: 1–2 Bilder von Cedric + 1–2 Stimmungsbilder, alle aus **einem** Zeitabschnitt (Zypern, Brasilien oder Frankfurt), kein Text aufs Bild. TikTok-Slideshows: meist 5–8 Bilder (bis 10), frei kombinierbar (auch über Zeitabschnitte) – aber nur Bilder aus dem Ordner, eigene Fotos oder lizenzfreie Bilder (keine Google-/Pinterest-Bilder). Keine Bilder mit Firmenlogos oder Namensschildern.

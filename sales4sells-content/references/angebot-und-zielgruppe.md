@@ -37,11 +37,13 @@ Cedrics Fotos sind nach Zeitabschnitten sortiert – man sieht, wie er älter wi
 **Typische Situationen für Hooks:** Sonntagabend-Gefühl vor dem Montag · 90 Minuten Pendeln am Tag · 3 % Gehaltserhöhung · Kinder unter der Woche nur schlafend sehen · Urlaub nach Plan vom Chef · Angst vor Umstrukturierung · Großraumbüro · „Ich bin introvertiert“ · „Mit 35 noch umsteigen?“ · Nebenjob (Pakete ausfahren) vs. Skill.
 
 ## Bestätigte Fakten über Cedric (nur diese verwenden)
-- Hat mit 18 im Vertrieb angefangen, noch während der Schulzeit.
-- Über eine Marketing-Agentur zu einer Vertriebsagentur, heute Head of Sales (ohne Firmennamen).
-- Hat über 20 Leute im Vertrieb eingearbeitet.
-- Telefoniert bis heute selbst.
+- Erste Business-Erfahrungen mit 16/17.
+- Mit 18 neben der Schule im Vertrieb angefangen (über eine Agentur).
+- Die Agentur lief so gut, dass er die Schule abgebrochen hat.
+- Heute: **Head of Sales bei einer großen GmbH** – genau so formulieren, keinen Firmennamen nennen.
+- Hat über 20 Leute im Vertrieb eingearbeitet und telefoniert bis heute selbst.
+- Hat dieses Jahr schon über eine halbe Million abgeschlossen – nur als Beleg für seine Erfahrung (z. B. in einer Cold-DM), nie als Verdienstaussicht für andere.
 - Ein Anfänger schafft rund 30 Anwahlen pro Stunde.
 
 ## Der Weg eines Interessenten
-Kommentar „UMSTIEG“, Like, Follow oder Nachricht → persönliche Nachricht mit einer Frage → im Chat kurz qualifizieren (über 18, hat einen Job/Einkommen, Ziel und ca. 1 Stunde am Tag) → der Poster schlägt zwei Termine vor, bucht das kostenlose Erstgespräch (ca. 30 Min., Video-Call oder Telefon) in Cedrics Calendly und trägt Termin und Lead im Dashboard unter „Termin buchen“ ein. Kein Bewerbungslink – sonst ist der Termin keinem Poster zugeordnet. (Die Bewerbung auf sales4sells.com ist für Leute, die direkt über die Website kommen.)
+Kommentar „UMSTIEG“, Like, Follow oder Nachricht → persönliche Nachricht mit einer Frage → im Chat kurz qualifizieren (Job/Vollzeit, warum interessiert, Ziel und ca. 1 Stunde am Tag; mind. 18 und Wohnort DE/AT klärt spätestens das Setting) → der Poster schlägt zwei Termine vor, bucht das kostenlose Erstgespräch (ca. 30 Min., Video-Call oder Telefon) in Cedrics Calendly und trägt Termin und Lead im Dashboard unter „Termin buchen“ ein. Kein Bewerbungslink – sonst ist der Termin keinem Poster zugeordnet. (Die Bewerbung auf sales4sells.com ist für Leute, die direkt über die Website kommen.)

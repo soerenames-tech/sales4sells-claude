@@ -2,7 +2,7 @@
 
 Kopiere den Prompt, ersetze die Teile in `[eckigen Klammern]` und schick ihn ab. Wenn dir die Antwort nicht gefällt, schreib einfach hinterher: **„kürzer“**, **„lockerer“**, **„normaler, weniger Werbung“** oder **„noch eine Variante“**.
 
-> **Wichtig:** Nie echte Namen, Telefonnummern oder Chatverläufe von Interessenten einfügen.
+> **Wichtig:** Keine Telefonnummern oder E-Mail-Adressen von Interessenten einfügen. Nachrichten und Screenshots sind okay.
 
 ---
 
@@ -60,7 +60,7 @@ Jemand hat unter meiner Slideshow kommentiert: „[Kommentar]“. Was antworte i
 ```
 Jemand hat [kommentiert: „…“ / mir gefolgt / meine Slideshow über … geliked / mein Profil angesehen]. Gib mir 2 kurze Entwürfe für eine erste Nachricht in meinem Ton: [locker / ruhig / direkt].
 ```
-*Danach:* Deine eigene Version im Wochen-Call mit Sören abstimmen.
+*Danach:* Passt die Nachricht zu dir? Sonst im 1:1-Call mit Sören besprechen.
 
 ### C3 · Instagram: Entwurf zu einem öffentlichen Kommentar
 ```
@@ -69,7 +69,7 @@ Unter einem Beitrag zum Thema [Thema] hat jemand kommentiert: „[Kommentar]“.
 
 ### C4 · Wie geht's im Gespräch weiter?
 ```
-Mein Gespräch bisher (ohne Namen): [Ich: … / Er: … / Ich: …]. Was schreibe ich als Nächstes, um zu qualifizieren oder einen Termin vorzuschlagen?
+Mein Gespräch bisher: [Ich: … / Er: … / Ich: …]. Was schreibe ich als Nächstes, um zu qualifizieren oder einen Termin vorzuschlagen?
 ```
 
 ### C5 · Einwand
@@ -100,7 +100,7 @@ Mach mir einen Tagesbericht aus diesen Stichpunkten: [z. B. Slideshow POV Pendel
 
 ### D3 · Lead-Beschreibung fürs Dashboard (Termin buchen)
 ```
-Formuliere mir eine Beschreibung (mind. 100 Zeichen) für einen Lead: [Alter], [Job], [wie er auf uns kam], [was er will], [welche Fragen er hatte]. Ohne Namen.
+Formuliere mir eine Beschreibung (mind. 100 Zeichen) für einen Lead: [Alter], [Job], [wie er auf uns kam], [was er will], [welche Fragen er hatte].
 ```
 
 ---

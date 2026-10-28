@@ -3,17 +3,18 @@
 ## Das Prinzip
 Posten ist zweitrangig – Gespräche zählen. Der Weg: **Slideshow auf TikTok → jemand zeigt Interesse (Signal) → persönliche Nachricht → kurz qualifizieren → Erstgespräch buchen (Cedrics Calendly) → im Dashboard eintragen.**
 
-- **TikTok:** Nur Menschen anschreiben, die ein **Signal** gegeben haben: Kommentar, neuer Follower, Like, Profilaufruf. Niemals Fremde ohne Signal.
+- **TikTok:** Menschen anschreiben, die ein **Signal** gegeben haben: Kommentar, neuer Follower, Like, Profilaufruf. Snipen (Kommentatoren unter fremden Videos) auf TikTok nur vorsichtig – Accounts mit Verstößen besser gar nicht.
 - **Instagram:** Erst wenn das Profil **6–9 Beiträge** hat. Dann zusätzlich vorsichtiger Cold Outreach – nur Menschen, die sich **öffentlich zum Thema geäußert** haben (z. B. ein Kommentar unter einem Beitrag zu Nebenjob, Homeoffice, Job-Frust).
-- **Calls:** Gruppen-Calls und 1:1-Calls mit Sören (vom Poster selbst angefragt). Dort werden die eigenen Nachrichten gemeinsam ausgearbeitet. Es gibt bewusst **keine festen Vorlagen** – wenn alle dieselbe Nachricht schicken, merkt man das sofort.
+- **Calls:** Gruppen-Calls und 1:1-Calls mit Sören (vom Poster selbst angefragt). Sören gibt Grundnachrichten vor (unten); jeder passt sie an – wenn alle wortgleich dieselbe Nachricht schicken, merkt man das sofort.
 
 ## TikTok-Slideshows
 
-### Die vier Formate (auf einem Account mischen)
-1. **Cedrics Weg** – seine echte Geschichte, nur bestätigte Fakten: mit 18 im Vertrieb angefangen, noch während der Schule · über eine Marketing-Agentur zu einer Vertriebsagentur · heute Head of Sales · über 20 Leute eingearbeitet · telefoniert bis heute selbst. Stationen Zypern → Brasilien → Frankfurt nur als Orte zeigen; was er dort genau gemacht hat, nicht erfinden.
+### Die Formate (auf einem Account mischen)
+1. **Cedrics Weg** – seine echte Geschichte, nur bestätigte Fakten: erste Business-Erfahrungen mit 16/17 · mit 18 neben der Schule im Vertrieb angefangen · die Agentur lief so gut, dass er die Schule abgebrochen hat · heute Head of Sales bei einer großen GmbH · über 20 Leute eingearbeitet · telefoniert bis heute selbst. Stationen Zypern → Brasilien → Frankfurt nur als Orte zeigen; was er dort genau gemacht hat, nicht erfinden.
 2. **POV** – die Situation der Zielgruppe: „POV: Du bist 31, Vollzeit …“. Szenario, keine erfundene Ich-Geschichte.
 3. **Vergleich** – zwei Wege gegenüberstellen: Nebenjob gegen Remote-Vertrieb, angestellt gegen selbstständig, „Kündigen“ gegen „Umsteigen“.
-4. **Alltag** – wie eine Stunde Telefonvertrieb wirklich aussieht (Laptop, Headset, ca. 30 Anwahlen pro Stunde am Anfang, viele Neins, ein paar Gespräche).
+4. **Alltag** – wie eine Stunde Telefonvertrieb wirklich aussieht (Laptop, Headset, ca. 30 Anwahlen pro Stunde am Anfang, viele Neins, ein paar Gespräche). Auch: „Was ist Telefonvertrieb eigentlich? Einfach erklärt.“
+5. **Frage an die Leute** (ab und zu) – ein Reizthema als Frage: „Warum sind 40 Stunden eigentlich noch normal?“, „Ehrlich: Wie viele Stunden arbeitest du?“ – letztes Bild: „Kommentier UMSTIEG, wenn …“. Holt in unserer Nische die meisten Kommentare.
 
 ### Aufbau (meist 5–8 Bilder, bei längerer Story bis 10)
 1. **Hook** – die Situation, in der sich die Zielperson wiedererkennt
@@ -34,25 +35,57 @@ Bei Vergleichen: Bild 1 stellt die Frage, dann abwechselnd die beiden Wege, letz
 - **Ich-Form nur mit echten Fakten.** Erfundene Erlebnisse („Ich war im Job gefangen … heute bin ich frei“) sind irreführende Werbung – abmahnfähig, Accounts werden gesperrt.
 
 ## Auf „UMSTIEG“-Kommentare reagieren
-1. Kommentar liken. 2. Kurz öffentlich antworten („Hab dir geschrieben“). Auf TikTok geht eine DM oft erst, wenn man sich gegenseitig folgt – dann: „Folg mir kurz, dann kann ich dir schreiben“ und zurückfolgen. 3. Per DM schreiben.
+1. Kommentar liken. 2. Kurz öffentlich antworten („Hab dir geschrieben!“). 3. Per DM schreiben (Grundnachricht unten).
+Ist die DM gesperrt: der Person folgen und antworten „Folg mir kurz zurück, dann kann ich dir schreiben.“
 
 ## Signale abarbeiten (TikTok)
 Reihenfolge nach Wärme: **1. Kommentare → 2. neue Follower → 3. Likes → 4. Profilaufrufe.** Kommentare am besten innerhalb einer Stunde.
-Profilaufrufe sieht man nur, wenn die Funktion in den TikTok-Einstellungen aktiviert ist.
+- Kommentare und neue Follower: **immer** anschreiben.
+- Likes und Profilaufrufe: anschreiben, **wenn die DM möglich ist** – sonst nicht weiter versuchen, nächste Person.
+- Profilaufrufe sieht man nur, wenn die Funktion in den TikTok-Einstellungen aktiviert ist.
 
-## Die erste Nachricht – Regeln statt Vorlage
-- **Bezug auf das Signal** (Kommentar, Follow, Like, Profilaufruf bzw. auf Instagram: der öffentliche Kommentar)
-- **2–3 Sätze**, locker, wie man einem Bekannten schreibt
-- **Endet mit einer Frage** (z. B. was die Person beruflich macht)
-- **Kein Link**, kein Werbetext, keine Copy-Paste-Nachricht an alle
+## Sörens Grundnachrichten (Basis – immer anpassen, nie wortgleich an alle)
 
-Wenn ein Poster Hilfe will: 2 unterschiedliche Entwürfe anbieten, die zu seinem Ton passen, und daran erinnern, die eigene Version im 1:1-Call mit Sören abzustimmen.
+**TikTok – DM nach Kommentar („UMSTIEG“ o. Ä.):**
+> Hey [Name], danke für deinen Kommentar! Klingt, als wärst du gerade auf der Suche nach was Neuem, das du neben dem Job starten kannst.
+> Kurz zu uns: Wir sind Sales4Sells und bilden Leute im Telefonvertrieb aus – geleitet von Cedric, der selbst Head of Sales ist und dieses Jahr schon über eine halbe Million abgeschlossen hat. Das Ganze ist kein einfaches Coaching, sondern eher eine Betreuung mit echter Jobmöglichkeit.
+> Damit ich dir das Richtige erzähle: Was machst du gerade beruflich – und was würdest du gern ändern?
 
-## Qualifizieren (3 Dinge, locker im Gespräch)
-1. **Über 18?**
-2. **Job/Einkommen?**
-3. **Ziel & Zeit?** (nebenbei aufbauen oder Stunden reduzieren? ca. eine Stunde am Tag?)
-Passt es → Termin vorschlagen, immer mit **zwei konkreten Zeiten**. Das Erstgespräch ist kostenlos und dauert ca. 30 Minuten. Passt es nicht → freundlich bleiben, nicht drängen.
+**Instagram – Cold-DM (Kommentar unter einem fremden Video):**
+> Hey [Name], hab deinen Kommentar bei [Creator] gesehen – klingt, als wärst du gerade auf der Suche nach was Neuem neben dem Job.
+> Wir sind Sales4Sells und bilden Leute im Telefonvertrieb aus – geleitet von Cedric, der selbst Head of Sales ist und dieses Jahr schon über eine halbe Million abgeschlossen hat. Das Ganze ist kein einfaches Coaching, sondern wirklich eher eine Betreuung und Jobmöglichkeit.
+> Wenn du magst, erzähl ich dir in 2 Minuten bisschen mehr über das Ganze. Was machst du denn gerade beruflich?
+
+**Wenn die Person antwortet:**
+> Danke dir, [Name]! Das klingt, als könnte das gut passen. Arbeitest du gerade Vollzeit – und ist das der Grund, warum du dich nach was Neuem umschaust?
+
+**Termin vorschlagen:**
+> Am besten erklären wir dir das in einem kurzen, kostenlosen Gespräch – da kannst du alles fragen. Passt dir eher [Tag, Uhrzeit] oder [Tag, Uhrzeit]?
+
+**Nach der Zusage (erst jetzt die Nummer):**
+> Perfekt, ich trag dich ein! Schick mir kurz deine Nummer, damit dich unser Team zur Uhrzeit anrufen kann.
+
+Anpassen heißt: Namen einsetzen, wenn möglich auf den konkreten Kommentar eingehen („[kurzes Zitat]“), in den eigenen Ton bringen. Die halbe Million ist ein Beleg für Cedrics Erfahrung – fragt jemand „Was verdiene ich dann?“, gibt es trotzdem keine Zahl.
+
+## Snipen: Wen auf Instagram (und vorsichtig auf TikTok) anschreiben
+- **Wo suchen:** Videos mit **mehreren hundert bis tausend Kommentaren** zu Job-Frust und Arbeitszeit – z. B. „Vollzeit keine Lust“, „40 Stunden Woche“, „Montag Arbeit“, „Job kündigen“, „Homeoffice Job“, „Remote arbeiten“, „Gehalt reicht nicht“ – oder große Business-/Vertriebs-Creator.
+- **Nicht** unter Videos von Nebenjob-Anbietern: Dort kommentieren vor allem andere Anbieter, und die schreiben dann einen selbst an.
+- **Wen:** Kommentare mit echtem Bedarf („Ich hasse meinen Job“, „Wie fängt man sowas an?“, „Such was nebenbei“). Zuerst die, die der Creator **nicht geliked** hat – die hat er wahrscheinlich noch nicht angeschrieben.
+- **Vor jeder Nachricht 5 Sekunden aufs Profil:** „Schreib mir Info“, Link in der Bio, „Nebenverdienst“ → Anbieter, überspringen.
+- **Selbst nicht unter fremden Videos kommentieren** – nur per DM schreiben.
+- Lieber 15–20 gute Nachrichten als 100 schlechte.
+
+## Die erste Nachricht – worauf es ankommt
+- **Bezug auf das Signal** bzw. den Kommentar
+- **Kurz**, locker, wie man einem Bekannten schreibt
+- **Endet mit einer Frage** (am besten nach dem Job)
+- **Kein Link**, keine Verdienstzahl, keine Abfrage von Nummer/E-Mail, keine Unterschrift „Cedric“
+
+## Qualifizieren (locker im Gespräch)
+1. **Job:** Was arbeitest du gerade – Vollzeit? Und ist das der Grund, warum dich das interessiert?
+2. **Ziel & Zeit:** nebenbei aufbauen oder Stunden reduzieren? Ca. eine Stunde am Tag möglich?
+3. **Mind. 18 und Wohnort Deutschland/Österreich** sind Voraussetzung – das klärt spätestens das Setting; nur nachfragen, wenn es unklar ist.
+Passt es → Termin mit **zwei konkreten Zeiten**. Das Erstgespräch ist kostenlos und dauert ca. 30 Minuten. Passt es nicht → freundlich bleiben, nicht drängen.
 Danach: Termin in Cedrics Calendly buchen (Link im Dashboard unter „Termin buchen“) und Termin + Lead im Dashboard eintragen.
 
 ## Follow-ups (max. 3)
@@ -70,8 +103,8 @@ Danach nicht weiter schreiben. Formulierungen in eigenen Worten.
 
 ## Instagram-Outreach
 - Erst wenn das Profil 6–9 Beiträge hat.
-- Leute finden: Hashtags wie #nebenjob, #homeoffice, #vertrieb, #jobfrust oder Accounts zu Karriere/Nebenjob → Beiträge mit vielen Kommentaren → Kommentare, die einen echten Schmerz zeigen („Jeden Tag 1,5 Std. pendeln“, „Such was nebenbei“). Emoji-Kommentare sind kein Signal.
-- Nachricht mit Bezug auf den Kommentar, Frage am Ende, kein Werbetext, kein Link.
+- Leute finden: siehe „Snipen“ oben – große Videos zu Job-Frust/Arbeitszeit, Kommentare mit echtem Schmerz („Jeden Tag 1,5 Std. pendeln“, „Such was nebenbei“). Emoji-Kommentare sind kein Signal.
+- Nachricht: Sörens Instagram-Cold-DM als Basis, angepasst an den Kommentar.
 - **15–20 pro Tag zum Start**, langsam steigern, max. ca. 40. Wer nicht antwortet oder ablehnt, bekommt keine weiteren Nachrichten.
 
 ## Tagesziel (Richtwert)

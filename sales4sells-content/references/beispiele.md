@@ -50,10 +50,10 @@ Pro Bild ein kurzer Satz (max. ~12 Wörter), dazu eine Bildidee. Beschreibung: o
 6. Und erst wenn es trägt, gehst du im Job runter. Kommentier UMSTIEG.
 
 ### Format: Cedrics Weg (nur bestätigte Fakten)
-1. Mit 18 im Vertrieb angefangen. Noch während der Schule. *(Cedric, Zypern)*
-2. Erst eine Marketing-Agentur. Dann eine Vertriebsagentur.
+1. Mit 18 neben der Schule im Vertrieb angefangen. *(Cedric, Zypern)*
+2. Lief so gut, dass er die Schule dafür abgebrochen hat.
 3. Jeden Tag telefoniert. Jeden Tag ein bisschen besser. *(Cedric, Brasilien)*
-4. Heute Head of Sales – über 20 Leute eingearbeitet. *(Cedric, Frankfurt)*
+4. Heute Head of Sales bei einer großen GmbH – über 20 Leute eingearbeitet. *(Cedric, Frankfurt)*
 5. Und er telefoniert bis heute selbst.
 6. Wie der Einstieg neben dem Job geht? Kommentier UMSTIEG.
 
@@ -76,7 +76,7 @@ Pro Bild ein kurzer Satz (max. ~12 Wörter), dazu eine Bildidee. Beschreibung: o
 ## Kommentare (öffentlich)
 
 **Kommentar „UMSTIEG“:**
-> Schön, dass du dabei bist! Ich hab dir eine Nachricht geschickt.
+> Hab dir geschrieben!
 
 **Frage „Was verdient man da?“ – öffentlich:**
 > Gute Frage! Eine feste Zahl kann dir seriös niemand versprechen – im Vertrieb läuft viel über Provision. Ich schreib dir kurz privat.
@@ -84,8 +84,8 @@ Pro Bild ein kurzer Satz (max. ~12 Wörter), dazu eine Bildidee. Beschreibung: o
 **Skeptischer Kommentar „Klingt nach Abzocke“:**
 > Verstehe ich – in dem Bereich gibt es viel Hype. Deshalb versprechen wir kein schnelles Geld: Du lernst neben dem Job und reduzierst erst, wenn es trägt.
 
-## Nachrichten (DM) – nur zur Orientierung
-Keine Vorlagen zum Kopieren. Diese Beispiele zeigen nur die Richtung; der Poster formuliert in seinen Worten und stimmt seine Version im 1:1-Call mit Sören ab.
+## Nachrichten (DM)
+Die Grundnachrichten von Sören (TikTok nach Kommentar, Instagram-Cold-DM, Termin) stehen in `outreach.md`. Immer anpassen: Name, Bezug auf den Kommentar, eigener Ton.
 - **Nach „UMSTIEG“:** kurz bedanken, ein Satz zum Umstieg-Modell, dann eine Frage („Was machst du aktuell beruflich?“).
 - **„Was verdient man?“:** keine Zahl, Provision erwähnen, aufs Erstgespräch verweisen, Frage zurück.
 - **„Was kostet das?“:** kein Preis im Chat, das klärt das Erstgespräch, Frage zurück.
