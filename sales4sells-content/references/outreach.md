@@ -68,15 +68,18 @@ Reihenfolge nach Wärme: **1. Kommentare → 2. neue Follower → 3. Likes → 4
 
 ## Sörens Grundnachrichten (Basis – immer anpassen, nie wortgleich an alle)
 
-**TikTok – DM nach Kommentar („UMSTIEG“ o. Ä.):**
-> Hey [Name], danke für deinen Kommentar! Klingt, als wärst du gerade auf der Suche nach was Neuem, das du neben dem Job starten kannst.
-> Kurz zu uns: Wir sind Sales4Sells und bilden Leute im Telefonvertrieb aus – geleitet von Cedric, der selbst Head of Sales ist und dieses Jahr schon über eine halbe Million abgeschlossen hat. Das Ganze ist kein einfaches Coaching, sondern eher eine Betreuung mit echter Jobmöglichkeit.
-> Damit ich dir das Richtige erzähle: Was machst du gerade beruflich – und was würdest du gern ändern?
+**Nach einem Kommentar bei uns (TikTok oder Instagram, z. B. „UMSTIEG“):**
+> Hey [Name], danke für deinen Kommentar! Schön, dass dich das Thema Vertrieb interessiert.
+> Wir haben gerade ein neues Projekt mit einer unserer Partnerfirmen am Start, für das wir neue Vertriebler suchen – remote und neben dem Job möglich. Die Partnerfirma zahlt pro gelegtem Termin, und das echt gut.
+> Erzähl mir gern ein bisschen von dir: Was machst du gerade beruflich, und warum interessiert dich Vertrieb? Dann schau ich, ob du zu uns passen könntest.
 
-**Instagram – Cold-DM (Kommentar unter einem fremden Video):**
-> Hey [Name], hab deinen Kommentar bei [Creator] gesehen – klingt, als wärst du gerade auf der Suche nach was Neuem neben dem Job.
-> Wir sind Sales4Sells und bilden Leute im Telefonvertrieb aus – geleitet von Cedric, der selbst Head of Sales ist und dieses Jahr schon über eine halbe Million abgeschlossen hat. Das Ganze ist kein einfaches Coaching, sondern wirklich eher eine Betreuung und Jobmöglichkeit.
-> Wenn du magst, erzähl ich dir in 2 Minuten bisschen mehr über das Ganze. Was machst du denn gerade beruflich?
+**Snipen – Cold-DM nach einem Kommentar unter einem fremden Beitrag (vor allem Instagram):**
+> Hey [Name], hab deinen Kommentar unter dem Beitrag von [Creator] gesehen. Bist du noch auf der Suche, dir etwas Eigenes aufzubauen?
+> Ich schreib dir, weil wir gerade dringendst neue Vertriebler und Marketer für ein Projekt mit einer unserer Partnerfirmen suchen – remote, neben dem Job und mit Einarbeitung. Die Partnerfirma zahlt pro gelegtem Termin auch echt gut.
+> Hättest du Lust, dir das mal anzuhören?
+
+**Sagt die Person beim Snipen „ja“:**
+> Cool! Dann erzähl mal kurz: Was machst du gerade beruflich – und warum interessiert dich das Thema?
 
 **Wenn die Person antwortet:**
 > Danke dir, [Name]! Das klingt, als könnte das gut passen. Arbeitest du gerade Vollzeit – und ist das der Grund, warum du dich nach was Neuem umschaust?
@@ -87,7 +90,7 @@ Reihenfolge nach Wärme: **1. Kommentare → 2. neue Follower → 3. Likes → 4
 **Nach der Zusage (erst jetzt die Nummer):**
 > Perfekt, ich trag dich ein! Schick mir kurz deine Nummer, damit dich unser Team zur Uhrzeit anrufen kann.
 
-Anpassen heißt: Namen einsetzen, wenn möglich auf den konkreten Kommentar eingehen („[kurzes Zitat]“), in den eigenen Ton bringen. Die halbe Million ist ein Beleg für Cedrics Erfahrung – fragt jemand „Was verdiene ich dann?“, gibt es trotzdem keine Zahl.
+Anpassen heißt: Namen und Creator einsetzen, wenn möglich auf den konkreten Kommentar eingehen („[kurzes Zitat]“), in den eigenen Ton bringen – aber nie wortgleich an alle. **Der Satz zur Bezahlung bleibt genau so** („Die Partnerfirma zahlt pro gelegtem Termin …“): keine Beträge ergänzen, nichts versprechen. Fragt jemand „Was verdiene ich?“, gibt es keine Zahl – das und wie das Projekt abläuft (inklusive Ausbildung davor) klärt das kostenlose Erstgespräch. „Dringendst“ und „Marketer“ stehen nur in der Snipen-Nachricht. Cedrics Erfahrung (Head of Sales, über eine halbe Million abgeschlossen) ist keine Erstnachricht mehr, sondern eine Antwort, wenn jemand fragt, wer dahintersteckt oder ob das seriös ist.
 
 ## Snipen: Wen auf Instagram (und vorsichtig auf TikTok) anschreiben
 - **Wo suchen:** Videos mit **mehreren hundert bis tausend Kommentaren** zu Job-Frust und Arbeitszeit – z. B. „Vollzeit keine Lust“, „40 Stunden Woche“, „Montag Arbeit“, „Job kündigen“, „Homeoffice Job“, „Remote arbeiten“, „Gehalt reicht nicht“ – oder große Business-/Vertriebs-Creator.

@@ -42,7 +42,7 @@ Cedrics Fotos sind nach Zeitabschnitten sortiert – man sieht, wie er älter wi
 - Die Agentur lief so gut, dass er die Schule abgebrochen hat.
 - Heute: **Head of Sales bei einer großen GmbH** – genau so formulieren, keinen Firmennamen nennen.
 - Hat über 20 Leute im Vertrieb eingearbeitet und telefoniert bis heute selbst.
-- Hat dieses Jahr schon über eine halbe Million abgeschlossen – nur als Beleg für seine Erfahrung (z. B. in einer Cold-DM), nie als Verdienstaussicht für andere.
+- Hat dieses Jahr schon über eine halbe Million abgeschlossen – nur als Beleg für seine Erfahrung (z. B. wenn jemand fragt, wer dahintersteckt), nie als Verdienstaussicht für andere.
 - Ein Anfänger schafft rund 30 Anwahlen pro Stunde.
 
 ## Der Weg eines Interessenten
